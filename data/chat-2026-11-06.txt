@@ -872,3 +872,5 @@ Knowledge 883 - Health - Hey buddy! 🙌 Naan Aira, un‑friend, un‑guide—
 
 ### 2️⃣ Exercise – “Move your body”
 - **Cardio**: 150 min moderate ( brisk 
+Coding Q 884 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`

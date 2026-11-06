@@ -377,3 +377,5 @@ Knowledge 692 - Diet - Hey buddy! 🌟
 | **Fiber & Water** | 25‑30 g fiber + 2‑3 L water/day | Whole grains, beans, chia, flaxseed, soups |
 
 **Key idea:** “Plate method” – ½ plate veggies, ¼ protein, ¼ car
+Coding Q 693 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!

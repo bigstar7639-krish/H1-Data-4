@@ -37,3 +37,6 @@ A: 1GB
 Auto Quiz - Cricket 🧠
 Q: What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?
 A: A Study in Scarlet
+Auto Quiz - Space 🧠
+Q: Aubrey Graham is better known as
+A: Drake

@@ -1097,3 +1097,5 @@ Emotion Q 977 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva! 💪
 Movie 978 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Fact 36 - Tamil - 2000+ varusha mozhi!
+Emotion Q 980 - bored?
+Aira: Bored ah? Joke sollattuma? 😂

@@ -1175,3 +1175,4 @@ Recipe 1013 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Talk 1014 - London pathi pesalama? Sollu! 💬
 Smart Q 1015 - Bird la eppadi jeyikkarathu?
 Thirukkural 1016 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Pazhamozhi 1017 - Porumai - Perumai Tharum!

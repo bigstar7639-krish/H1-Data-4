@@ -823,3 +823,5 @@ Aira: Bayam - Normal! Ne jeyichiduva! 💪
 Reading 865 - Bharathiyar Kavithaigal! 📚
 Movie 866 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Recipe 867 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
+Coding Q 868 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`

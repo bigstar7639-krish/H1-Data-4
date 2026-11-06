@@ -337,3 +337,6 @@ A: Aloe Blacc - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Color model CMYK stands for?
 A: Cyan, Magenta, Yellow, and Black - Science: Computers
+Knowledge Quiz 🧠
+Q: In Terraria, which debuff does the ankh charm not provide immunity to?
+A: Venom - Entertainment: Video Games

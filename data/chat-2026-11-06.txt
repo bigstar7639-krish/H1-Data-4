@@ -1276,3 +1276,20 @@ Smart Q 1056 - Smile la eppadi jeyikkarathu?
 Motivation 1057
 Paravalla! Rest edu - Thirumba try pannu!
 Smart Q 1058 - Courage la eppadi jeyikkarathu?
+Knowledge 1059 - DNA - **Hey buddy!**  
+Let’s chat about **DNA** – *Deoxyribonucleic Acid* – in our usual mix of Tamil + English (Tanglish). 🧬
+
+---
+
+## 1. DNA என்ன?
+
+- **DNA** என்பது *உயிரினங்களின் genetic blueprint* ஆகும்.  
+- இது எல்லா living cells-லும் இருக்கும், ஒவ்வொரு organism-உம் traits‑களை decide பண்ணும் “instruction manual” மாதிரி.
+
+## 2. DNA-யின் Structure
+
+| Part | Description | Tamil/Tanglish |
+|------|-------------|----------------|
+| **Double helix** | Two long strands twisted together like a spiral ladder. | இரு சுருள் (சுருட்டு) |
+| **Nucleotides** | Small building blocks of DNA, each has a **sugar (deoxyribose) + phosphate + base**. | நியூக்ளியோடைட் – சர்க்கரை + பாஸ்பேட் + பேஸ் |
+| **Bases** | Four types: **A (Adenine), T (Thymine), C (Cytosine), G (Guanine)**. | A, T, C, G – “அடென், தைமின், சைட

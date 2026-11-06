@@ -494,3 +494,4 @@ Reading 741 - Bharathiyar Kavithaigal! 📚
 Movie 742 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Smart Q 743 - Beauty la eppadi jeyikkarathu?
 Vocab 744 - Dream = Kanavu 📚
+Kavithai 745 - Un Kural - En Isai! - Aira

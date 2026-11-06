@@ -1030,3 +1030,5 @@ Knowledge 934 - Chennai - Hey buddy! 🌟 Let’s talk about **Chennai**, the vi
 ## 🕌 Cultural & Historical Gem
 Movie 935 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
 Vocab 936 - Happy = Santhosham 📚
+Story 937
+Oru chinna paris la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!

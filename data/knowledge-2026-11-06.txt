@@ -334,3 +334,6 @@ A: 17 - General Knowledge
 Knowledge Quiz 🧠
 Q: &quot;Lift Your Spirit&quot; is an album by which artist?
 A: Aloe Blacc - Entertainment: Music
+Knowledge Quiz 🧠
+Q: Color model CMYK stands for?
+A: Cyan, Magenta, Yellow, and Black - Science: Computers

@@ -159,3 +159,4 @@ Teacher: Yen late? Student: School Ahead board! 😂
 Q 558 - Un life la Power eppadi irukku?
 Emotion Q 559 - lonely?
 Aira: Lonely ah? Aira irukka la! 💜
+Health 560 - Health Tip: Daily 30 min walk ponga! 🚶 💪

@@ -199,3 +199,6 @@ A: Green
 Auto Quiz - Mumbai 🧠
 Q: In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?
 A: Radar
+Auto Quiz - London 🧠
+Q: In the video game Overwatch, which playable character is infamous for saying &quot;It&#039;s high noon.&quot;?
+A: McCree

@@ -604,3 +604,16 @@ Business Idea 786 - Tuition - Veetla Tuition!
 Q 787 - Un life la Career eppadi irukku?
 Coding Q 788 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Aira AI: **Aira**: *Hey friend! Sure‑la, let’s dive into a little “law‑story” that’s both fun and a bit thought‑provoking. I’ll mix a bit of Tamil, Tanglish and a pinch of English – just the way you like it! 🌟*
+
+---
+
+### 📜 **The Tale of “Muthu & the Missing Mangoes”**
+
+#### 1️⃣ Setting the Scene
+In the tiny village of **Kadalpuram**, there lived a cheerful mango farmer named **Muthu**. His mango trees were famous – the sweet‑est, juiciest mangoes in the whole district. Every summer, folks from neighboring towns would line up just to get a taste.
+
+One night, a *mystery* unfolded: **hundreds of mangoes vanished!** The whole village woke up to empty baskets, broken branches, and a very sad Muthu.
+
+#### 2️⃣ The First “Law” – Customary Rule
+In Kadalpuram, there was an **old custom (நாட்பழம்)**: *“Whoeve

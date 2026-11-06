@@ -539,3 +539,6 @@ A: 33.9 - Science: Mathematics
 Knowledge Quiz 🧠
 Q: Which ocean borders the west coast of the United States?
 A: Pacific - Geography
+Knowledge Quiz 🧠
+Q: Which of these Movies was NOT released in 1996?
+A: Gladiator - Entertainment: Film

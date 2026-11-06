@@ -207,3 +207,4 @@ Aira: React component - Chinna piece!
 Smart Q 582 - Study la eppadi jeyikkarathu?
 Smart Q 583 - Wisdom la eppadi jeyikkarathu?
 Thirukkural 584 - Kattrathu - Kai Mann Alavu! - Thirukkural
+Recipe 585 - Cake - Maida + Sugar + Egg + 30 min! 🍔

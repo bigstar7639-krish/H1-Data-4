@@ -536,3 +536,4 @@ Q 760 - Unakku Student pathi enna theriyum?
 Q 761 - Computer pathi oru story kekkura?
 Emotion Q 762 - happy?
 Aira: Super! Happy ah irukka! 😊
+Quote 763 - Daily try pannu - Jeyichiduva! - Aira

@@ -193,3 +193,6 @@ A: 2010
 Auto Quiz - Chennai 🧠
 Q: &quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?
 A: Krill
+Auto Quiz - Delhi 🧠
+Q: In a game of snooker, what colour ball is worth 3 points?
+A: Green

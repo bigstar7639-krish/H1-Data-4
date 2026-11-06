@@ -1051,3 +1051,4 @@ Game 950 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Talk 951 - Eiffel Tower pathi pesalama? Sollu! 💬
 Health 952 - Health Tip: Fruits daily saapdunga! 🍎 💪
 Game 953 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
+Thirukkural 954 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural

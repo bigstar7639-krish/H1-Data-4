@@ -1133,3 +1133,4 @@ Q 996 - Ocean pathi oru story kekkura?
 Quote 997 - Daily try pannu - Jeyichiduva! - Aira
 Pazhamozhi 998 - Aalai Paathu - Aadi Paaru!
 Pazhamozhi 999 - Porumai - Perumai Tharum!
+Pazhamozhi 1000 - Porumai - Perumai Tharum!

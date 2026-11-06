@@ -82,3 +82,6 @@ A: G-Virus
 Auto Quiz - Animal 🧠
 Q: Which nation hosted the FIFA World Cup in 2006?
 A: Germany
+Auto Quiz - Baby 🧠
+Q: What military rank is the protagonist &quot;Nomad&quot; in &quot;Crysis&quot;?
+A: First Lieutenant

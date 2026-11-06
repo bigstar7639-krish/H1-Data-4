@@ -1178,3 +1178,4 @@ Thirukkural 1016 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Pazhamozhi 1017 - Porumai - Perumai Tharum!
 Business Idea 1018 - Tuition - Veetla Tuition!
 Reading 1019 - Think and Grow Rich! 📚
+Game 1020 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮

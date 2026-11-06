@@ -228,3 +228,4 @@ Coding Q 599 - React la component enna?
 Aira: React component - Chinna piece!
 Recipe 600 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Vocab 601 - Dream = Kanavu 📚
+Smart Q 602 - New York la eppadi jeyikkarathu?

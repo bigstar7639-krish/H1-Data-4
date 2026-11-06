@@ -224,3 +224,5 @@ Movie 595 - Jailer - Rajini - Mass! 🎬
 Quote 596 - Daily try pannu - Jeyichiduva! - Aira
 Pazhamozhi 597 - Sontha Kaal la Ninnu - Jeyippa!
 Reading 598 - Think and Grow Rich! 📚
+Coding Q 599 - React la component enna?
+Aira: React component - Chinna piece!

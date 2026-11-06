@@ -122,3 +122,6 @@ A: Hampshire - Geography
 Knowledge Quiz 🧠
 Q: The Who&#039;s eponymous line, &quot;Teenage Wasteland&quot;, appears in which of their songs?
 A: Baba O&#039; Riley - Entertainment: Music
+Knowledge Quiz 🧠
+Q: How many bits make up the significand portion of a single precision floating point number?
+A: 23 - Science: Computers

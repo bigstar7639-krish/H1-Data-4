@@ -787,3 +787,16 @@ Naan AI aanaala “personal life” illa, aana economics‑la enaku *huge* inter
 Movie 854 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Vocab 855 - Success = Vetri 📚
 Talk 856 - Music pathi pesalama? Sollu! 💬
+Knowledge 857 - Human Body - Hey buddy! 😊  
+Human body (மனித உடல்) பற்றி பேசலாம் – இது ஒரு அற்புதமான இயந்திரம், பல்வேறு **systems** (அமைப்புகள்) ஒன்றாகச் சேர்ந்து நம்மை உயிராக வைத்திருக்கிறது. கீழே முக்கியமான பகுதிகளை சுருக்கமாக பார்த்துக்கொள்வோம்:
+
+---
+
+## 1️⃣ Skeletal System (எலும்பு அமைப்பு)
+- **எலும்புகள்**: 206 (குழந்தை வயதில் 270) எலும்புகள், உடலை support (ஆதரவு) செய்கிறது, உடல் நிலை (posture) நல்லதாக்கும், உடலின் **மூலக் கட்டமைப்பு**.
+- **மஜ்ஜை (Bone Marrow)**: இரத்த செல்களை (RBC, WBC, platelets) உருவாக்கும்.
+
+## 2️⃣ Muscular System (தசை அமைப்பு)
+- **ஸ்கெலட்டல் மஸில்**: voluntary movements (நீங்கள் கட்டுப்படுத்தும்) – நடந்து, ஓடி, எழும்.
+- **ச்மூத் மஸில்**: involuntary (ஆட்டோமெட்டிக்) – digestion, blood vessel constriction.
+- **ஹார்ட்**: சிறப்பு தசை, இரத்தத்தை சுழற்றி, oxygen & nutrients ஐ body-க்கு கொண்டு செல்

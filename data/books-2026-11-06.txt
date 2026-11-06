@@ -17,3 +17,4 @@ jpn - ipod-touch-4-8-gb-finger-tips - Ipod Touch 4 8 GB Finger Tips
 hin - in.gov.bih.gazette.2011-08-25.439 - Bihar Gazette, 2011-08-25, Extra Ordinary
 hin - in.gov.bih.gazette.2016-02-01.86 - Bihar Gazette, 2016-02-01, Extra Ordinary
 kan - in.gazette.karnataka_eo.2021-01-30.159 - Karnataka ExtraOrdinary Gazette, 2021-01-30, Extra Ordinary, Part III
+ara - write.ass - ‎⁨الرد على جهالات المتعصب لأوروبا في أصول التاريخ ومنهجه.⁩

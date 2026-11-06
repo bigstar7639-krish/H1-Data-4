@@ -256,3 +256,5 @@ Thirukkural 620 - Kattrathu - Kai Mann Alavu! - Thirukkural
 World Story 621
 Oru chinna city la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Vocab 622 - Dream = Kanavu 📚
+Coding Q 623 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`

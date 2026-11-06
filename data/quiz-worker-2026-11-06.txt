@@ -106,3 +106,6 @@ A: Eyes
 Auto Quiz - Diet 🧠
 Q: When did the United States formally declare war on Japan, entering World War II?
 A: December 8, 1941
+Auto Quiz - Sleep 🧠
+Q: In computing, what does MIDI stand for?
+A: Musical Instrument Digital Interface

@@ -1069,3 +1069,4 @@ World Story 964
 Oru chinna village la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Story 965
 Oru paris la oru coder irunthan! Daily travel pannan pannan! Oru naal love kedaichuchu! Life maariduchu!
+Recipe 966 - Snacks - Potato + Masala - Crispy! 🍔

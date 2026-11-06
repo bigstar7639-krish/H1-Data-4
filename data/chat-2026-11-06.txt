@@ -497,3 +497,4 @@ Vocab 744 - Dream = Kanavu 📚
 Kavithai 745 - Un Kural - En Isai! - Aira
 Recipe 746 - Snacks - Potato + Masala - Crispy! 🍔
 Quote 747 - Daily try pannu - Jeyichiduva! - Aira
+Vocab 748 - Friend = Nanban 📚

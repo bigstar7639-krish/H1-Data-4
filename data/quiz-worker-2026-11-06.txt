@@ -76,3 +76,6 @@ A: Vienna
 Auto Quiz - Moon 🧠
 Q: At which university do &quot;The Big Bang Theory&quot; characters Mr. Wolowitz and Drs. Cooper, Hofstadter and Koothrappali work?
 A: Caltech
+Auto Quiz - Bird 🧠
+Q: In &quot;Resident Evil 2&quot;, which virus was William Birkin mutated by?
+A: G-Virus

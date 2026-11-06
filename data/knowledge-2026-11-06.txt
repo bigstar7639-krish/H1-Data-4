@@ -340,3 +340,6 @@ A: Cyan, Magenta, Yellow, and Black - Science: Computers
 Knowledge Quiz 🧠
 Q: In Terraria, which debuff does the ankh charm not provide immunity to?
 A: Venom - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What was the code name given to Sonic the Hedgehog 4 during its development?
+A: Project Needlemouse - Entertainment: Video Games

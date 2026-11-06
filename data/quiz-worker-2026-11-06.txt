@@ -133,3 +133,6 @@ A: Mac OS
 Auto Quiz - Festival 🧠
 Q: Alzheimer&#039;s disease primarily affects which part of the human body?
 A: Brain
+Auto Quiz - Marriage 🧠
+Q: Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?
+A: Sri Lanka

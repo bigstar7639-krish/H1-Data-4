@@ -542,3 +542,17 @@ A: Pacific - Geography
 Knowledge Quiz 🧠
 Q: Which of these Movies was NOT released in 1996?
 A: Gladiator - Entertainment: Film
+Knowledge 850 - Computer - Hey buddy! 😊  
+Computer **pathi** solla start panren.  
+
+### 1. Computer enna?  
+Computer‑a oru **electronic machine** nu solalaam, which can **process**, **store**, and **retrieve** data. Namma daily life‑la phone, laptop, desktop, server ellam computer‑oda different forms.
+
+### 2. Main components (parts)  
+
+| Part | Tamil + English description |
+|------|-----------------------------|
+| **CPU (Central Processing Unit)** | “Brain” of the computer. Instructions ah read pannitu, calculations pannitu, tasks execute pannum. |
+| **RAM (Random Access Memory)** | Temporary memory – program run aagum bodhu data store aagum. Power off aanaal clear aagum. |
+| **Storage** (HDD/SSD) | Permanent memory. Files, OS, apps ellam idhula store aagum. SSD faster than HDD. |
+| **Motherboard** | All parts‑a con

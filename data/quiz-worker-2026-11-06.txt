@@ -160,3 +160,6 @@ A: 1 in 649,740
 Auto Quiz - Courage 🧠
 Q: The LS2 engine is how many cubic inches?
 A: 364
+Auto Quiz - Kindness 🧠
+Q: For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?
+A: Dysentery

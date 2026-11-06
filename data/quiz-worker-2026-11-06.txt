@@ -121,3 +121,6 @@ A: Rope
 Auto Quiz - Sport 🧠
 Q: What album did Gorillaz release in 2017?
 A: Humanz
+Auto Quiz - Football 🧠
+Q: Pearl Jam was originally named after which sports figure?
+A: Mookie Blaylock

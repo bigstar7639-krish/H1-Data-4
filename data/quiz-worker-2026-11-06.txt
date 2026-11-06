@@ -172,3 +172,6 @@ A: Tuba
 Auto Quiz - Power 🧠
 Q: What city  has the busiest airport in the world?
 A: Atlanta, Georgia USA
+Auto Quiz - Magic 🧠
+Q: In the show &quot;Foster&#039;s Home For Imaginary Friends&quot;, which character had an obsession with basketball?
+A: Wilt

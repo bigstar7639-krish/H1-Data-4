@@ -515,3 +515,6 @@ A: Derivation - Science: Mathematics
 Knowledge Quiz 🧠
 Q: Who was the topscorer for England national football team?
 A: Wayne Rooney - Sports
+Knowledge Quiz 🧠
+Q: What is the state capital of South Dakota?
+A: Pierre - Geography

@@ -127,3 +127,6 @@ A: Mookie Blaylock
 Auto Quiz - History 🧠
 Q: What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?
 A: Atreyu
+Auto Quiz - Culture 🧠
+Q: Which operating system was released first?
+A: Mac OS

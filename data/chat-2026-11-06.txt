@@ -270,3 +270,5 @@ Smart Q 631 - Teacher la eppadi jeyikkarathu?
 Coding Q 632 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Vocab 633 - Dream = Kanavu 📚
+Coding Q 634 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`

@@ -565,3 +565,4 @@ Quote 770 - Daily try pannu - Jeyichiduva! - Aira
 Movie 771 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
 Recipe 772 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Kavithai 773 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Pazhamozhi 774 - Sontha Kaal la Ninnu - Jeyippa!

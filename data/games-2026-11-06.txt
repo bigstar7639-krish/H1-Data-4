@@ -19,3 +19,4 @@ Game 861 - Coin Toss - Ne Toss nu Sollu! 🎮
 Game 898 - Dice - Ne Dice nu Sollu! 🎮
 Game 950 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮
 Game 953 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time! ⏰ 🎮
+Game 963 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu! 🎮

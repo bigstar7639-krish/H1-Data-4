@@ -55,3 +55,6 @@ A: I Don&#039;t Know How But They Found Me
 Auto Quiz - Temple 🧠
 Q: How many rooms are there, not including the hallways and the set of stairs, in the board game &quot;Clue&quot;?
 A: 9
+Auto Quiz - Flower 🧠
+Q: Which company did the animation for Peter Gabriel&#039;s Video Sledgehammer (1986)?
+A: Aardman Animations

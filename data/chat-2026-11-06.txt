@@ -643,3 +643,4 @@ Aira: React component - Chinna piece!
 Reading 801 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 📚
 Quote 802 - Daily try pannu - Jeyichiduva! - Aira
 Business Idea 803 - Tuition - Veetla Tuition!
+Smart Q 804 - Poetry la eppadi jeyikkarathu?

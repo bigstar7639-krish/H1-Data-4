@@ -750,3 +750,5 @@ Q 845 - Un life la Star eppadi irukku?
 Smart Q 846 - Study la eppadi jeyikkarathu?
 Q 847 - Culture pathi oru secret sollatta?
 Talk 848 - Mahabharata pathi pesalama? Sollu! 💬
+Joke 849
+Why bike sad? Petrol illa!

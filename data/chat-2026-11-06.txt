@@ -733,3 +733,5 @@ World Story 833
 Oru world la oru artist irunthan! Daily travel pannan pannan! Oru naal hope kedaichuchu! Life maariduchu!
 Game 834 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Quote 835 - Daily try pannu - Jeyichiduva! - Aira
+Coding Q 836 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!

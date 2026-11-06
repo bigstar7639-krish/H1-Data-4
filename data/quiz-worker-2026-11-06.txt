@@ -136,3 +136,6 @@ A: Brain
 Auto Quiz - Marriage 🧠
 Q: Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?
 A: Sri Lanka
+Auto Quiz - Family 🧠
+Q: In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?
+A: Mistletoe

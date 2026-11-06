@@ -386,3 +386,16 @@ Movie 696 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Coding Q 697 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Quote 698 - Daily try pannu - Jeyichiduva! - Aira
+Knowledge 699 - Football - Hey buddy! 🙌 **Football**-ஐ (soccer) பற்றி சொல்லப் போகிறேன், Tamil‑Tanglish style‑ல். Ready? 🚀
+
+---
+
+## 1️⃣ Football என்ன?  
+Football என்பது 11 players per side கொண்ட, **மைதானம் (field)**‑ல் ஒரு **round ball**‑ஐ **goal**‑க்கு அடிக்கப் போட்டி. உலகம் முழுவதும் **120+ நாடுகள்** இதை நேசிக்கிறது. FIFA (Fédération Internationale de Football Association) இதை ஒழுங்குபடுத்தும் முக்கிய அமைப்பு.
+
+## 2️⃣ அடிப்படை Rules (முக்கிய விதிகள்)
+
+| Rule | Tamil Explanation | Quick English |
+|------|-------------------|---------------|
+| **Pitch** | 100‑130 யார்ட்ஸ் (length) & 50‑100 யார்ட்ஸ் (width). Grass அல்லது artificial turf. | Field size. |
+| **Offside** | Attack‑ல் ball‑க்கு அருகில் நிற்பதற்கு முன், opponent‑ன் **second-last defender**‑க்கு முன்னால் நின்றால் offside. | Player must have at least 2 defende

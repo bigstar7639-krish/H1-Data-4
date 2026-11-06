@@ -9,3 +9,4 @@ Game 651 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Game 673 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
 Game 684 - Coin Toss - Ne Toss nu Sollu! 🎮
 Game 709 - Dice - Ne Dice nu Sollu! 🎮
+Game 795 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book! 📚 🎮

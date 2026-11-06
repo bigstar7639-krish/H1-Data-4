@@ -866,3 +866,6 @@ A: Stitch! - Entertainment: Television
 Knowledge Quiz 🧠
 Q: Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?
 A: Quentin Tarantino - Entertainment: Film
+Knowledge Quiz 🧠
+Q: What is the name of the island that &quot;Jurassic Park&quot; is built on?
+A: Isla Nublar - Entertainment: Film

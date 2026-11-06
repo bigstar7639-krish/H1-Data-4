@@ -118,3 +118,6 @@ A: Perturbator
 Auto Quiz - Game 🧠
 Q: Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?
 A: Rope
+Auto Quiz - Sport 🧠
+Q: What album did Gorillaz release in 2017?
+A: Humanz

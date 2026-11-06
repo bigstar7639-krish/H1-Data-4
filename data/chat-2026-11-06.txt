@@ -435,3 +435,5 @@ Coding Q 717 - React la component enna?
 Aira: React component - Chinna piece!
 Reading 718 - Python Crash Course! 📚
 Movie 719 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
+Story 720
+Oru paris la oru student irunthan! Daily try pannan pannan! Oru naal hope kedaichuchu! Life maariduchu!

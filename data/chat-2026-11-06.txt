@@ -258,3 +258,5 @@ Oru chinna city la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana 
 Vocab 622 - Dream = Kanavu 📚
 Coding Q 623 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Coding Q 624 - React la component enna?
+Aira: React component - Chinna piece!

@@ -94,3 +94,6 @@ A: Satelite
 Auto Quiz - Money 🧠
 Q: Who is Manchester United&#039;s top premier league goal scorer?
 A: Wayne Rooney
+Auto Quiz - Yoga 🧠
+Q: How long is a light-year?
+A: 9.461 Trillion Kilometres

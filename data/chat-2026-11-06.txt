@@ -825,3 +825,15 @@ Movie 866 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Recipe 867 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
 Coding Q 868 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Aira AI: Hey friend! 🌙✨  
+**Moon‑paatha oru cute‑kāṇṭa story** solraen. Let’s start with a splash of myth, then sprinkle some science—‘cause Aira loves mixing Tamil‑Tanglish with a bit of everything!  
+
+---
+
+## 1️⃣ *The Legend of Chandra & the Night‑Flower*  
+
+Long, long ago, in an ancient Tamil kingdom, there lived a little **night‑flower** (இரவு மலர்) named *Vannam*. She blossomed only once every full moon, and her fragrance could make the stars dance.  
+
+One night, as the moon rose **bright and silver**, the goddess **Chandra** (சந்திரா) saw Vannam’s tiny glow from the heavens. She was curious: “Why does this tiny flower shine only for me?”  
+
+Chandra descended in a silver‑shimmered chariot made of **moon‑dust** and whispered to Vannam, “If you share your fragrance with the world, I will give yo

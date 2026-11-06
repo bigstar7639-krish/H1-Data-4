@@ -509,3 +509,6 @@ A: Borneo - Geography
 Knowledge Quiz 🧠
 Q: The 2023 Beatles song &quot;Now and Then&quot; originated from an unfinished demo recorded by which Beatle?
 A: John Lennon - Entertainment: Music
+Knowledge Quiz 🧠
+Q: Integration is the reverse of what mathematical operation?
+A: Derivation - Science: Mathematics

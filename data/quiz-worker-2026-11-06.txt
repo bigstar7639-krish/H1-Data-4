@@ -58,3 +58,6 @@ A: 9
 Auto Quiz - Flower 🧠
 Q: Which company did the animation for Peter Gabriel&#039;s Video Sledgehammer (1986)?
 A: Aardman Animations
+Auto Quiz - Sea 🧠
+Q: What is the full name of the protagonist from the SNES game Clock Tower?
+A: Jennifer Simpson

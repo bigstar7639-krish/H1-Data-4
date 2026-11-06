@@ -166,3 +166,6 @@ A: Dysentery
 Auto Quiz - Truth 🧠
 Q: Which Batman sidekick is the son of Talia al Ghul?
 A: Damian Wayne
+Auto Quiz - Wisdom 🧠
+Q: Which brass instrument has the lowest pitch in an orchestra?
+A: Tuba

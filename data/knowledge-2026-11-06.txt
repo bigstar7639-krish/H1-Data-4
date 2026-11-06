@@ -432,3 +432,6 @@ A: He&#039;s the big kahuna. - Entertainment: Television
 Knowledge Quiz 🧠
 Q: Which car tire manufacturer is famous for its &quot;P Zero&quot; line?
 A: Pirelli - Vehicles
+Knowledge Quiz 🧠
+Q: In computing terms, typically what does CLI stand for?
+A: Command Line Interface - Science: Computers

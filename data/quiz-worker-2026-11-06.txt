@@ -163,3 +163,6 @@ A: 364
 Auto Quiz - Kindness 🧠
 Q: For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?
 A: Dysentery
+Auto Quiz - Truth 🧠
+Q: Which Batman sidekick is the son of Talia al Ghul?
+A: Damian Wayne

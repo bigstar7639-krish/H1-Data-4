@@ -124,3 +124,6 @@ A: Humanz
 Auto Quiz - Football 🧠
 Q: Pearl Jam was originally named after which sports figure?
 A: Mookie Blaylock
+Auto Quiz - History 🧠
+Q: What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?
+A: Atreyu

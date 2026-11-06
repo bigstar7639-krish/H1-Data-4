@@ -909,3 +909,4 @@ Game 898 - Dice - Ne Dice nu Sollu! 🎮
 Coding Q 899 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Recipe 900 - Snacks - Potato + Masala - Crispy! 🍔
+Q 901 - Quran pathi oru secret sollatta?

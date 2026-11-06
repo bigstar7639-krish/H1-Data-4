@@ -358,3 +358,4 @@ Reading 686 - Bharathiyar Kavithaigal! 📚
 Health 687 - Yoga Tip: Daily 5 min deep breath edu! 🧘 💪
 Coding Q 688 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Talk 689 - Wisdom pathi pesalama? Sollu! 💬

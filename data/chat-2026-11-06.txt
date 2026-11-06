@@ -148,3 +148,5 @@ Q 549 - Ne Science la eppadi improve panna mudiyum?
 Smart Q 550 - Money la eppadi jeyikkarathu?
 Q 551 - Fitness pathi oru story kekkura?
 Pazhamozhi 552 - Sontha Kaal la Ninnu - Jeyippa!
+World Story 553
+Oru chinna paris la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!

@@ -73,3 +73,6 @@ A: As a joke
 Auto Quiz - Star 🧠
 Q: Which European capital city gives its name to a 1981 song by Ultravox?
 A: Vienna
+Auto Quiz - Moon 🧠
+Q: At which university do &quot;The Big Bang Theory&quot; characters Mr. Wolowitz and Drs. Cooper, Hofstadter and Koothrappali work?
+A: Caltech

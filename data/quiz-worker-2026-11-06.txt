@@ -103,3 +103,6 @@ A: Michelangelo
 Auto Quiz - Fitness 🧠
 Q: Which part of the body does glaucoma affect?
 A: Eyes
+Auto Quiz - Diet 🧠
+Q: When did the United States formally declare war on Japan, entering World War II?
+A: December 8, 1941

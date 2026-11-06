@@ -1059,3 +1059,5 @@ World Story 957
 Oru world la oru ponnu irunthan! Daily padichan pannan! Oru naal hope kedaichuchu! Life maariduchu!
 Coding Q 958 - App eppadi pannurathu?
 Aira: App - Idea - Design - Code!
+Coding Q 959 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!

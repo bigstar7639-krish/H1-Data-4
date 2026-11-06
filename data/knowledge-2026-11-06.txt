@@ -556,3 +556,6 @@ Computer‑a oru **electronic machine** nu solalaam, which can **process**, **st
 | **RAM (Random Access Memory)** | Temporary memory – program run aagum bodhu data store aagum. Power off aanaal clear aagum. |
 | **Storage** (HDD/SSD) | Permanent memory. Files, OS, apps ellam idhula store aagum. SSD faster than HDD. |
 | **Motherboard** | All parts‑a con
+Knowledge Quiz 🧠
+Q: According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?
+A: 28% - General Knowledge

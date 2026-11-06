@@ -431,3 +431,5 @@ Knowledge 716 - Ramayana - Hey friend! 🙏 Let’s talk about **Ramayana** �
 |------------|-------------------|
 | **Balakanda** | Rama’s birth, childhood, his marriage to Sita, and the *Swayamvara* where he breaks Shiva’s bow. |
 | **Ayodhyakanda** | Rama’s exile (14 years) after Kaikeyi’s dem
+Coding Q 717 - React la component enna?
+Aira: React component - Chinna piece!

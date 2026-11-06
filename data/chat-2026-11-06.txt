@@ -1205,3 +1205,4 @@ Kavithai 1026 - Un Sirippu - En Vazhkai! - Aira
 Movie 1027 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 🎬
 Thirukkural 1028 - Anbu - Ellam Tharum! - Thirukkural
 Fact 38 - Tamil - 2000+ varusha mozhi!
+Recipe 1030 - Snacks - Potato + Masala - Crispy! 🍔

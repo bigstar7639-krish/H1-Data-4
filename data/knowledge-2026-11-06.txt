@@ -211,3 +211,6 @@ A: Serbia - Science: Computers
 Knowledge Quiz 🧠
 Q: Prior to his appearance in Super Smash Bros. Ultimate, What was King K. Rool&#039;s last appearance in any game?
 A: Mario Super Sluggers - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: What is the name the location-based augmented reality game developed by Niantic before Pok&eacute;mon GO?
+A: Ingress - Entertainment: Video Games

@@ -196,3 +196,4 @@ Luck - Hard Luck
 Destiny - Uncertain Destiny
 Destiny - Broken Destiny
 Destiny - Bond of Destiny
+Karma - Karma

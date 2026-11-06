@@ -879,3 +879,20 @@ A: Kaunas - Geography
 Knowledge Quiz 🧠
 Q: What is the capital of Suriname?
 A: Paramaribo - Geography
+Knowledge 1047 - Internet - **Hey buddy! 😊 Aira ippo unga friend‑ma, Tamil‑Tanglish mix‑la internet‑pathi solla ready!**  
+
+---
+
+## What is the Internet? 🌐
+Internet‑na **oru massive network of computers** worldwide that talk to each other using standard protocols (like TCP/IP). It’s like a giant digital **pazhamudhir solai** where every device is a leaf, and the data flows like water through the veins.
+
+- **World Wide Web (WWW)** – webpages (HTML) that we browse.
+- **Email** – instant letters.
+- **Social media** – Facebook, Instagram, Twitter (now X), etc.
+- **Streaming** – YouTube, Netflix, Spotify – video & music on‑demand.
+- **Cloud services** – Google Drive, Dropbox – files stored in the “cloud” (i.e., remote servers).
+
+---
+
+## How does it work? 🛠️
+1. **Devices (computer, phone, tablet)** connect to a **router/mo

@@ -735,3 +735,4 @@ Game 834 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Quote 835 - Daily try pannu - Jeyichiduva! - Aira
 Coding Q 836 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
+Game 837 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮

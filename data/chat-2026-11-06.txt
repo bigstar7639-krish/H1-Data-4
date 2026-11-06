@@ -602,3 +602,5 @@ Thirukkural 784 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Fact 30 - Honey - 3000 varusham kedathu!
 Business Idea 786 - Tuition - Veetla Tuition!
 Q 787 - Un life la Career eppadi irukku?
+Coding Q 788 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`

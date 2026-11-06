@@ -341,3 +341,4 @@ Oru chinna world la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! A
 Game 673 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu! 🎮
 Vocab 674 - Dream = Kanavu 📚
 Health 675 - Health Tip: Daily 30 min walk ponga! 🚶 💪
+Health 676 - Health Tip: Fruits daily saapdunga! 🍎 💪

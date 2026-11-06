@@ -190,3 +190,6 @@ A: Peter Cushing
 Auto Quiz - City 🧠
 Q: In which year did the British television series &quot;The Bill&quot; end?
 A: 2010
+Auto Quiz - Chennai 🧠
+Q: &quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?
+A: Krill

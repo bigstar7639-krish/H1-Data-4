@@ -732,3 +732,6 @@ A: Hydra - Entertainment: Video Games
 Knowledge Quiz 🧠
 Q: What is the French word for &quot;fish&quot;?
 A: poisson - General Knowledge
+Knowledge Quiz 🧠
+Q: Which artist painted &ldquo;The Treachery of Images,&rdquo; a painting of a pipe with the description &quot;this is not a pipe&quot;?
+A: Magritte - Art

@@ -205,3 +205,6 @@ A: McCree
 Auto Quiz - Paris 🧠
 Q: Which of these car models are produced by Lamborghini?
 A: Aventador
+Auto Quiz - Tokyo 🧠
+Q: What is the perimeter of a circle more commonly known as?
+A: Circumference

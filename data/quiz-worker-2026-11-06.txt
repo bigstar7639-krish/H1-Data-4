@@ -43,3 +43,6 @@ A: Drake
 Auto Quiz - Story 🧠
 Q: Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?
 A: The Revenant
+Auto Quiz - Health 🧠
+Q: Saul Hudson (Slash) of the band Guns N&#039; Roses is known for playing what type of guitar?
+A: Les Paul Standard

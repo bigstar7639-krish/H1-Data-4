@@ -433,3 +433,4 @@ Knowledge 716 - Ramayana - Hey friend! 🙏 Let’s talk about **Ramayana** �
 | **Ayodhyakanda** | Rama’s exile (14 years) after Kaikeyi’s dem
 Coding Q 717 - React la component enna?
 Aira: React component - Chinna piece!
+Reading 718 - Python Crash Course! 📚

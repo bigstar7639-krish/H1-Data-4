@@ -960,3 +960,5 @@ Business Idea 916 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Reading 917 - Mahabharata! 📚
 Kavithai 918 - Un Sirippu - En Vazhkai! - Aira
 Quote 919 - Daily try pannu - Jeyichiduva! - Aira
+Coding Q 920 - React la component enna?
+Aira: React component - Chinna piece!

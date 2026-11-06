@@ -34,3 +34,6 @@ A: As a tribute to a fan who passed away
 Auto Quiz - Food 🧠
 Q: When Gmail first launched, how much storage did it provide for your email?
 A: 1GB
+Auto Quiz - Cricket 🧠
+Q: What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?
+A: A Study in Scarlet

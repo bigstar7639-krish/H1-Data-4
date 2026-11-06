@@ -536,3 +536,6 @@ A: Moscow - Sports
 Knowledge Quiz 🧠
 Q: How many Millibars (mbar) to 1 Inch of Mercury (inHg)
 A: 33.9 - Science: Mathematics
+Knowledge Quiz 🧠
+Q: Which ocean borders the west coast of the United States?
+A: Pacific - Geography

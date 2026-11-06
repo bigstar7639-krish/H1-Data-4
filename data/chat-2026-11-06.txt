@@ -403,3 +403,5 @@ Fact 27 - Octopus ku 3 heart!
 Movie 701 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Story 702
 Oru mountain la oru ponnu irunthan! Daily coding pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
+Emotion Q 703 - bored?
+Aira: Bored ah? Joke sollattuma? 😂

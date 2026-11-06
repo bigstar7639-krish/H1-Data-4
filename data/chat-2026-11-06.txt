@@ -37,3 +37,4 @@ Vocab 553 - Success = Vetri 📚
 Business Idea 554 - 【entity-Instagram¦canonical_name=Instagram】 Page - Daily 1 Post!
 Vocab 555 - Friend = Nanban 📚
 Quote 556 - Daily try pannu - Jeyichiduva! - Aira
+Kavithai 557 - Un Sirippu - En Vazhkai! - Aira

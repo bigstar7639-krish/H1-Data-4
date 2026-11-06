@@ -208,3 +208,6 @@ A: Aventador
 Auto Quiz - Tokyo 🧠
 Q: What is the perimeter of a circle more commonly known as?
 A: Circumference
+Auto Quiz - New York 🧠
+Q: In the Doctor Who universe, how many times can a time lord normally regenerate?
+A: 12

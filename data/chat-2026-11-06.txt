@@ -1183,3 +1183,4 @@ Motivation 1021
 Paravalla! Rest edu - Thirumba try pannu!
 Coding Q 1022 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Talk 1023 - Football pathi pesalama? Sollu! 💬

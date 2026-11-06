@@ -243,3 +243,6 @@ Knowledge 643 - Computer - Hey buddy! 😄  **Computer**-ஐ பற்றி ச
 Knowledge Quiz 🧠
 Q: In the show &quot;Futurama&quot; what is Fry&#039;s full name?
 A: Philip J. Fry - Entertainment: Television
+Knowledge Quiz 🧠
+Q: In which year did &quot;Caravan Palace&quot; release their first album?
+A: 2008 - Entertainment: Music

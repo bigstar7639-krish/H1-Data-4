@@ -356,3 +356,5 @@ Game 684 - Coin Toss - Ne Toss nu Sollu! 🎮
 Thirukkural 685 - Porumai - Periya Sakthi! - Thirukkural
 Reading 686 - Bharathiyar Kavithaigal! 📚
 Health 687 - Yoga Tip: Daily 5 min deep breath edu! 🧘 💪
+Coding Q 688 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`

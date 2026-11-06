@@ -169,3 +169,6 @@ A: Damian Wayne
 Auto Quiz - Wisdom 🧠
 Q: Which brass instrument has the lowest pitch in an orchestra?
 A: Tuba
+Auto Quiz - Power 🧠
+Q: What city  has the busiest airport in the world?
+A: Atlanta, Georgia USA

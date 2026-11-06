@@ -187,3 +187,6 @@ A: Partisan Eagle
 Auto Quiz - Village 🧠
 Q: Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?
 A: Peter Cushing
+Auto Quiz - City 🧠
+Q: In which year did the British television series &quot;The Bill&quot; end?
+A: 2010

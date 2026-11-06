@@ -178,3 +178,6 @@ A: Wilt
 Auto Quiz - Luck 🧠
 Q: In what year was the card game Magic: the Gathering first introduced?
 A: 1993
+Auto Quiz - Karma 🧠
+Q: Who is the lead singer of the Smashing Pumpkins?
+A: Billy Corgan

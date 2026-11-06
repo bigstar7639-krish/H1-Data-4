@@ -1245,3 +1245,5 @@ Internet‑na **oru massive network of computers** worldwide that talk to each o
 
 ## How does it work? 🛠️
 1. **Devices (computer, phone, tablet)** connect to a **router/mo
+Coding Q 1048 - React la component enna?
+Aira: React component - Chinna piece!

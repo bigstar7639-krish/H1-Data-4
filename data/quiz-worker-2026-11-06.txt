@@ -196,3 +196,6 @@ A: Krill
 Auto Quiz - Delhi 🧠
 Q: In a game of snooker, what colour ball is worth 3 points?
 A: Green
+Auto Quiz - Mumbai 🧠
+Q: In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?
+A: Radar

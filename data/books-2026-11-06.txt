@@ -33,3 +33,4 @@ kor - 6454589-184-yuseongyeob-2018-gughoeyiweon-jeonbug-jeongeubsigocanggun - 18
 chi - shibao-1919.07.18 - 時報 1919.07.18
 ara - write.ass - ‎⁨الرد على جهالات المتعصب لأوروبا في أصول التاريخ ومنهجه.⁩
 eng - in.gov.bih.gazette.2011-08-25.439 - Bihar Gazette, 2011-08-25, Extra Ordinary
+kan - in.gazette.karnataka_eo.2020-08-06.139 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III

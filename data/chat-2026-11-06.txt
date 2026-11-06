@@ -901,3 +901,5 @@ Talk 892 - Reading pathi pesalama? Sollu! 💬
 Q 893 - Un life la Space eppadi irukku?
 Joke 894
 Teacher: Yen late? Student: School Ahead board! 😂
+Coding Q 895 - React la component enna?
+Aira: React component - Chinna piece!

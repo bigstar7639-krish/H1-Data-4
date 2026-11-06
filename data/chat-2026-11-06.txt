@@ -646,3 +646,4 @@ Business Idea 803 - Tuition - Veetla Tuition!
 Smart Q 804 - Poetry la eppadi jeyikkarathu?
 Recipe 805 - Snacks - Potato + Masala - Crispy! 🍔
 Movie 806 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
+Pazhamozhi 807 - Aalai Paathu - Aadi Paaru!

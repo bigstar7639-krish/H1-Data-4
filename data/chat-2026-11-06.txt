@@ -250,3 +250,5 @@ Talk 616 - Student pathi pesalama? Sollu! 💬
 Game 617 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil! 🎮
 Story 618
 Oru chinna london la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Coding Q 619 - Bug ah eppadi sari pannanum?
+Aira: Bug - Log paaru!

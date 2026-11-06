@@ -40,3 +40,6 @@ A: A Study in Scarlet
 Auto Quiz - Space 🧠
 Q: Aubrey Graham is better known as
 A: Drake
+Auto Quiz - Story 🧠
+Q: Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?
+A: The Revenant

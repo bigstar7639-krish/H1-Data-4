@@ -788,3 +788,6 @@ A: Switzerland - Geography
 Knowledge Quiz 🧠
 Q: In Prokofiev&#039;s &#039;Peter and the Wolf&#039;, the wolf itself is represented by a trio of which musical instrument?
 A: French horn - Entertainment: Music
+Knowledge Quiz 🧠
+Q: Which of the following is not one of the seven Millennium Prize Problems?
+A: Navi&eacute;r conjecture - Science: Mathematics

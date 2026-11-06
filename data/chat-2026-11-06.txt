@@ -1309,3 +1309,4 @@ Coding Q 1069 - React la component enna?
 Aira: React component - Chinna piece!
 Kavithai 1070 - Un Sirippu - En Vazhkai! - Aira
 Movie 1071 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
+Thirukkural 1072 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural

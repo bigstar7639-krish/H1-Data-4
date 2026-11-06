@@ -863,3 +863,6 @@ A: Reaper - Entertainment: Music
 Knowledge Quiz 🧠
 Q: Which of these Disney shows is classified as an anime?
 A: Stitch! - Entertainment: Television
+Knowledge Quiz 🧠
+Q: Who directed the movies &quot;Pulp Fiction&quot;, &quot;Reservoir Dogs&quot; and &quot;Django Unchained&quot;?
+A: Quentin Tarantino - Entertainment: Film

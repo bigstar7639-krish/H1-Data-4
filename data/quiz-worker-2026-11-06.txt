@@ -61,3 +61,6 @@ A: Aardman Animations
 Auto Quiz - Sea 🧠
 Q: What is the full name of the protagonist from the SNES game Clock Tower?
 A: Jennifer Simpson
+Auto Quiz - Mountain 🧠
+Q: In the Kingdom Hearts series, which is not an optional boss you can fight?
+A: Master Yen Sid

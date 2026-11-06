@@ -70,3 +70,6 @@ A: Komodo dragon
 Auto Quiz - Sky 🧠
 Q: In the 2002 film &quot;Kung Pow! Enter the Fist&quot;, why was Wimp Lo purposely trained wrong?
 A: As a joke
+Auto Quiz - Star 🧠
+Q: Which European capital city gives its name to a 1981 song by Ultravox?
+A: Vienna

@@ -157,3 +157,6 @@ A: Sean Connery
 Auto Quiz - Peace 🧠
 Q: What are the chances of being dealt a Royal Flush within Poker/Video Poker?
 A: 1 in 649,740
+Auto Quiz - Courage 🧠
+Q: The LS2 engine is how many cubic inches?
+A: 364

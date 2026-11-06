@@ -1222,3 +1222,4 @@ Q 1040 - Smile pathi oru secret sollatta?
 Coding Q 1041 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
 Recipe 1042 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
+Knowledge 1043 - AI - AI - Data paathu - Pattern!

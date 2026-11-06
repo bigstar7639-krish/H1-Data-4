@@ -638,3 +638,5 @@ Vocab 797 - Courage = Thairiyam 📚
 Story 798
 Oru chinna sea la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Recipe 799 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔
+Coding Q 800 - React la component enna?
+Aira: React component - Chinna piece!

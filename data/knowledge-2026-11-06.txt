@@ -205,3 +205,6 @@ A: Scoobert - Entertainment: Cartoon &amp; Animations
 Knowledge Quiz 🧠
 Q: What is the chemical symbol for lead?
 A: Pb - Science &amp; Nature
+Knowledge Quiz 🧠
+Q: .rs is the top-level domain for what country?
+A: Serbia - Science: Computers

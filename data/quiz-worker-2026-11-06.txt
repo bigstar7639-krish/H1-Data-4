@@ -151,3 +151,6 @@ A: Beta 1.8
 Auto Quiz - Success 🧠
 Q: Who is Manchester United&#039;s top premier league goal scorer?
 A: Wayne Rooney
+Auto Quiz - Motivation 🧠
+Q: Who voiced the character Draco in the 1996 movie &#039;DragonHeart&#039;?
+A: Sean Connery

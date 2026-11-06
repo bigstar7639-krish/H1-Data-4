@@ -148,3 +148,6 @@ A: Aneka
 Auto Quiz - Dream 🧠
 Q: In Minecraft, what update did foods like steak become stackable?
 A: Beta 1.8
+Auto Quiz - Success 🧠
+Q: Who is Manchester United&#039;s top premier league goal scorer?
+A: Wayne Rooney

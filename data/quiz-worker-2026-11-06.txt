@@ -85,3 +85,6 @@ A: Germany
 Auto Quiz - Baby 🧠
 Q: What military rank is the protagonist &quot;Nomad&quot; in &quot;Crysis&quot;?
 A: First Lieutenant
+Auto Quiz - Student 🧠
+Q: Which one of these &quot;Mortal Kombat&quot; characters has been playable in every single mainline game?
+A: Sub-Zero

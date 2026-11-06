@@ -409,3 +409,5 @@ Kavithai 704 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Quote 705 - Daily try pannu - Jeyichiduva! - Aira
 Health 706 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Talk 707 - Fashion pathi pesalama? Sollu! 💬
+Emotion Q 708 - bored?
+Aira: Bored ah? Joke sollattuma? 😂

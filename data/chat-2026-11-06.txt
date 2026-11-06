@@ -300,3 +300,4 @@ Knowledge 643 - Computer - Hey buddy! 😄  **Computer**-ஐ பற்றி ச
 | **RAM** | நினைவகம் | Random Access Memory | Temporary storage, programmes-ஐ run செய்யும் போது data-யை hold செய்கிறது. |
 | **Storage** | சேமிப்பு | HDD/SSD | Long‑term d
 Pazhamozhi 644 - Sontha Kaal la Ninnu - Jeyippa!
+Reading 645 - Atomic Habits! 📚

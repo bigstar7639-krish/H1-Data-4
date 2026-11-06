@@ -204,3 +204,4 @@ Teacher: Yen late? Student: School Ahead board! 😂
 Recipe 580 - Cake - Maida + Sugar + Egg + 30 min! 🍔
 Coding Q 581 - React la component enna?
 Aira: React component - Chinna piece!
+Smart Q 582 - Study la eppadi jeyikkarathu?

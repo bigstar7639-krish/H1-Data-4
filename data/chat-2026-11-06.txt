@@ -1368,3 +1368,4 @@ Coding Q 1091 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Story 1092
 Oru chinna village la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Thirukkural 1093 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural

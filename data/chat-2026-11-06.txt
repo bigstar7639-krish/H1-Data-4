@@ -140,3 +140,4 @@ Game 542 - Coin Toss - Ne Toss nu Sollu! 🎮
 Fact 21 - Tamil - 2000+ varusha mozhi!
 Q 544 - Tree pathi oru secret sollatta?
 Vocab 545 - Friend = Nanban 📚
+Health 546 - Health Tip: 7 mani neram thoongunga! 😴 💪

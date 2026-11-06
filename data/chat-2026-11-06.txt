@@ -1221,3 +1221,4 @@ Smart Q 1039 - CSS la eppadi jeyikkarathu?
 Q 1040 - Smile pathi oru secret sollatta?
 Coding Q 1041 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Recipe 1042 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super! 🍔

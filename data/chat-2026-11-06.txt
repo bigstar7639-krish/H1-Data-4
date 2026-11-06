@@ -272,3 +272,5 @@ Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Vocab 633 - Dream = Kanavu 📚
 Coding Q 634 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Story 635
+Oru tokyo la oru coder irunthan! Daily help pannan pannan! Oru naal success kedaichuchu! Life maariduchu!

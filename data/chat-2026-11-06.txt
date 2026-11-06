@@ -419,3 +419,15 @@ World Story 713
 Oru chinna new york la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Reading 714 - Ramayana! 📚
 Thirukkural 715 - Porumai - Periya Sakthi! - Thirukkural
+Knowledge 716 - Ramayana - Hey friend! 🙏 Let’s talk about **Ramayana** – the epic that’s loved all over India and the world. I’ll give you the gist in **Tamil‑Tanglish** (some English words mixed in) so it feels cozy and easy.  
+
+---
+
+## 📖 Ramayana Overview (சுருக்கம்)
+
+**Ramayana** என்பது மகாகவி வேதவ்யாசர் (Valmiki) எழுதிய 24,000 சுல்குகள் (shlokas) கொண்ட ஒரு பெரும் காவியம். இது **Rama**, **Sita**, **Lakshmana**, **Hanuman**, **Ravana** போன்ற iconic characters‑ஐ revolve செய்து, dharma (நெறி), loyalty (உறுதி) மற்றும் bhakti (அன்பு)‑யை காட்டும் ஒரு moral guide ஆகும்.
+
+| Main Parts | Content (சுருக்கம்) |
+|------------|-------------------|
+| **Balakanda** | Rama’s birth, childhood, his marriage to Sita, and the *Swayamvara* where he breaks Shiva’s bow. |
+| **Ayodhyakanda** | Rama’s exile (14 years) after Kaikeyi’s dem

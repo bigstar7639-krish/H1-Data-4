@@ -125,3 +125,6 @@ A: Baba O&#039; Riley - Entertainment: Music
 Knowledge Quiz 🧠
 Q: How many bits make up the significand portion of a single precision floating point number?
 A: 23 - Science: Computers
+Knowledge Quiz 🧠
+Q: What is the name of the protagonist&#039;s first Persona in &quot;Persona 5&quot;?
+A: Arsene - Entertainment: Video Games

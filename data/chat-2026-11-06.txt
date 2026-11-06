@@ -306,3 +306,4 @@ Oru chinna delhi la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana
 Health 647 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Coding Q 648 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Talk 649 - London pathi pesalama? Sollu! 💬

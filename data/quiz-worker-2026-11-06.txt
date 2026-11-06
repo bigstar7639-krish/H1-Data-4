@@ -4,3 +4,6 @@ A: Apollo
 Auto Quiz - Happiness 🧠
 Q: When did Radiohead release their album &quot;OK Computer&quot;?
 A: 1997
+Auto Quiz - Smile 🧠
+Q: Which of these is NOT a team available in the game Pok&eacute;mon Go?
+A: Team Rocket

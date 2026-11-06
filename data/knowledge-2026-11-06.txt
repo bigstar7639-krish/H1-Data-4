@@ -240,3 +240,6 @@ Knowledge 643 - Computer - Hey buddy! 😄  **Computer**-ஐ பற்றி ச
 | **CPU** | மைய செயலி | Central Processing Unit | “மாஸ்டர் மூளை”. Instructions-ஐ execute செய்கிறது. |
 | **RAM** | நினைவகம் | Random Access Memory | Temporary storage, programmes-ஐ run செய்யும் போது data-யை hold செய்கிறது. |
 | **Storage** | சேமிப்பு | HDD/SSD | Long‑term d
+Knowledge Quiz 🧠
+Q: In the show &quot;Futurama&quot; what is Fry&#039;s full name?
+A: Philip J. Fry - Entertainment: Television

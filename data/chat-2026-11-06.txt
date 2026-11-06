@@ -491,3 +491,4 @@ Q 739 - Un life la Courage eppadi irukku?
 Story 740
 Oru chinna delhi la - Oru ponnu dream pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Reading 741 - Bharathiyar Kavithaigal! 📚
+Movie 742 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬

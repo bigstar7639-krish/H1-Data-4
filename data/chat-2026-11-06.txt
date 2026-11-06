@@ -219,3 +219,4 @@ Health 590 - Health Tip: Daily 8 glass water kudinga! 💧 💪
 Pazhamozhi 591 - Porumai - Perumai Tharum!
 Health 592 - Health Tip: 7 mani neram thoongunga! 😴 💪
 Movie 593 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
+Thirukkural 594 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural

@@ -533,3 +533,6 @@ A: 2004 - General Knowledge
 Knowledge Quiz 🧠
 Q: Where was the Games of the XXII Olympiad held?
 A: Moscow - Sports
+Knowledge Quiz 🧠
+Q: How many Millibars (mbar) to 1 Inch of Mercury (inHg)
+A: 33.9 - Science: Mathematics

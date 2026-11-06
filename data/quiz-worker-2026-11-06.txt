@@ -25,3 +25,6 @@ A: The Apology
 Auto Quiz - God 🧠
 Q: In what year did Neil Armstrong and Buzz Aldrin land on the moon?
 A: 1969
+Auto Quiz - Nature 🧠
+Q: Which country developed the AK-47 assault rifle?
+A: Soviet Union

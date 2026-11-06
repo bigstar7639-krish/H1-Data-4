@@ -227,3 +227,4 @@ Reading 598 - Think and Grow Rich! 📚
 Coding Q 599 - React la component enna?
 Aira: React component - Chinna piece!
 Recipe 600 - Cake - Maida + Sugar + Egg + 30 min! 🍔
+Vocab 601 - Dream = Kanavu 📚

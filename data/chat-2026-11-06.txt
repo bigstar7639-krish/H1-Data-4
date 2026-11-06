@@ -1320,3 +1320,4 @@ Movie 1078 - Leo - 【entity-Vijay¦canonical_name=Vijay】 - Action! 🎬
 Reading 1079 - Ponniyin Selvan - 【entity-Kalki¦canonical_name=Kalki】! 📚
 Vocab 1080 - Kindness = Anbu 📚
 Game 1081 - Dice - Ne Dice nu Sollu! 🎮
+Recipe 1082 - Snacks - Potato + Masala - Crispy! 🍔

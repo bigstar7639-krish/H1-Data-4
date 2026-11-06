@@ -130,3 +130,6 @@ A: Atreyu
 Auto Quiz - Culture 🧠
 Q: Which operating system was released first?
 A: Mac OS
+Auto Quiz - Festival 🧠
+Q: Alzheimer&#039;s disease primarily affects which part of the human body?
+A: Brain

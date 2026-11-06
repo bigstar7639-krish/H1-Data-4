@@ -88,3 +88,6 @@ A: First Lieutenant
 Auto Quiz - Student 🧠
 Q: Which one of these &quot;Mortal Kombat&quot; characters has been playable in every single mainline game?
 A: Sub-Zero
+Auto Quiz - Business 🧠
+Q: Which animation studio produced &quot;Log Horizon&quot;?
+A: Satelite

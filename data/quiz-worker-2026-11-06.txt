@@ -100,3 +100,6 @@ A: 9.461 Trillion Kilometres
 Auto Quiz - Meditation 🧠
 Q: Who painted the Sistine Chapel?
 A: Michelangelo
+Auto Quiz - Fitness 🧠
+Q: Which part of the body does glaucoma affect?
+A: Eyes

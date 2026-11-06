@@ -223,3 +223,20 @@ A: 12 - Science &amp; Nature
 Knowledge Quiz 🧠
 Q: When was Finland&#039;s 100th year of being independent?
 A: 2017 - History
+Knowledge 643 - Computer - Hey buddy! 😄  **Computer**-ஐ பற்றி சொல்லப்போகிறேன் – ஒரு **digital companion** போல, பல மொழிகளில் பேசும், பல பணிகளை செய்யும் ஒரு **magic box** தான்!  
+
+---
+
+## 1️⃣ What is a Computer?  
+- **Definition:** ஒரு எலக்ட்ரானிக் சாதனம், **data**-யை **input**, **process**, **store** மற்றும் **output** செய்யும்.  
+- **Core idea:** “**Input → Process → Output**” – இது தான் computer-ன் life cycle.  
+
+---
+
+## 2️⃣ Main Parts (Hardware)  
+
+| Part | Tamil (தமிழ்) | English | What it does |
+|------|---------------|---------|--------------|
+| **CPU** | மைய செயலி | Central Processing Unit | “மாஸ்டர் மூளை”. Instructions-ஐ execute செய்கிறது. |
+| **RAM** | நினைவகம் | Random Access Memory | Temporary storage, programmes-ஐ run செய்யும் போது data-யை hold செய்கிறது. |
+| **Storage** | சேமிப்பு | HDD/SSD | Long‑term d

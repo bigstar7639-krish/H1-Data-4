@@ -145,3 +145,6 @@ A: Lights
 Auto Quiz - Study 🧠
 Q: Who had a 1981 hit with the song &quot;Japanese Boy&quot;?
 A: Aneka
+Auto Quiz - Dream 🧠
+Q: In Minecraft, what update did foods like steak become stackable?
+A: Beta 1.8

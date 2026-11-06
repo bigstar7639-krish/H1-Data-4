@@ -181,3 +181,6 @@ A: 1993
 Auto Quiz - Karma 🧠
 Q: Who is the lead singer of the Smashing Pumpkins?
 A: Billy Corgan
+Auto Quiz - Rain 🧠
+Q: In Xenoblade Chronicles X, which class has a sniper rifle as it&#039;s primary weapon?
+A: Partisan Eagle

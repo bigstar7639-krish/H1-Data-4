@@ -313,3 +313,5 @@ Game 651 - Quiz: Python eppo uruvaachu? Answer: 1991! 🎮
 Smart Q 652 - Poetry la eppadi jeyikkarathu?
 Business Idea 653 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Business Idea 654 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Coding Q 655 - App eppadi pannurathu?
+Aira: App - Idea - Design - Code!

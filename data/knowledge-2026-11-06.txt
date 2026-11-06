@@ -285,3 +285,6 @@ A: 2-3 - Animals
 Knowledge Quiz 🧠
 Q: Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?
 A: Wales - General Knowledge
+Knowledge Quiz 🧠
+Q: Which team has won the most Stanley Cups in the NHL?
+A: Montreal Canadians - Sports

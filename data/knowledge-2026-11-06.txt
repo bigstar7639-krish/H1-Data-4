@@ -876,3 +876,6 @@ Knowledge 1043 - AI - AI - Data paathu - Pattern!
 Knowledge Quiz 🧠
 Q: What is the second-largest city in Lithuania?
 A: Kaunas - Geography
+Knowledge Quiz 🧠
+Q: What is the capital of Suriname?
+A: Paramaribo - Geography

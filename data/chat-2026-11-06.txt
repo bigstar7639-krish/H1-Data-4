@@ -534,3 +534,5 @@ Kavithai 758 - Un Kural - En Isai! - Aira
 Health 759 - Health Tip: Daily 30 min walk ponga! 🚶 💪
 Q 760 - Unakku Student pathi enna theriyum?
 Q 761 - Computer pathi oru story kekkura?
+Emotion Q 762 - happy?
+Aira: Super! Happy ah irukka! 😊

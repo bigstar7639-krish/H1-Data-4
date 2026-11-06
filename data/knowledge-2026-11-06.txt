@@ -905,3 +905,6 @@ A: a lawnmower - Entertainment: Film
 Knowledge Quiz 🧠
 Q: In the video game &quot;Closers Online: Dimension Conflict&quot;, who is the administrator of team Wildh&uuml;ter?
 A: Alice Wiseman - Entertainment: Video Games
+Knowledge Quiz 🧠
+Q: In the Half-Life universe, the Black Mesa Research Facility is located in which US state?
+A: New Mexico - Entertainment: Video Games

@@ -79,3 +79,6 @@ A: Caltech
 Auto Quiz - Bird 🧠
 Q: In &quot;Resident Evil 2&quot;, which virus was William Birkin mutated by?
 A: G-Virus
+Auto Quiz - Animal 🧠
+Q: Which nation hosted the FIFA World Cup in 2006?
+A: Germany

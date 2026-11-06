@@ -323,3 +323,5 @@ Q 658 - Un life la Moon eppadi irukku?
 Talk 659 - Chennai pathi pesalama? Sollu! 💬
 Emotion Q 660 - lonely?
 Aira: Lonely ah? Aira irukka la! 💜
+Joke 661
+Why bike sad? Petrol illa!

@@ -1305,3 +1305,5 @@ Pazhamozhi 1066 - Aalai Paathu - Aadi Paaru!
 World Story 1067
 Oru chinna delhi la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Fact 39 - Tamil - 2000+ varusha mozhi!
+Coding Q 1069 - React la component enna?
+Aira: React component - Chinna piece!

@@ -222,3 +222,4 @@ Movie 593 - 【entity-Harry Potter¦canonical_name=Harry Potter】 - Magic! 🎬
 Thirukkural 594 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Movie 595 - Jailer - Rajini - Mass! 🎬
 Quote 596 - Daily try pannu - Jeyichiduva! - Aira
+Pazhamozhi 597 - Sontha Kaal la Ninnu - Jeyippa!

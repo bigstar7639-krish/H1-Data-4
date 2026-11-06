@@ -154,3 +154,6 @@ A: Wayne Rooney
 Auto Quiz - Motivation 🧠
 Q: Who voiced the character Draco in the 1996 movie &#039;DragonHeart&#039;?
 A: Sean Connery
+Auto Quiz - Peace 🧠
+Q: What are the chances of being dealt a Royal Flush within Poker/Video Poker?
+A: 1 in 649,740

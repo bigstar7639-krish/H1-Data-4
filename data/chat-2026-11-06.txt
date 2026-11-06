@@ -962,3 +962,17 @@ Kavithai 918 - Un Sirippu - En Vazhkai! - Aira
 Quote 919 - Daily try pannu - Jeyichiduva! - Aira
 Coding Q 920 - React la component enna?
 Aira: React component - Chinna piece!
+Knowledge 921 - Quran - **Hey buddy! 🙏 Let’s talk about the Qur’an – the holy book of Islam. I’ll explain it in Tamil‑Tanglish so it’s easy to read, and I’ll sprinkle a bit of English and other languages where it fits.**  
+
+---
+
+## 1. What is the Qur’an?  
+- **Qur’an** (Arabic: القرآن ‎*Al‑Qur’ān*) means “the Recitation” or “the Reading”.  
+- It is considered by Muslims **the final revelation** from Allah (God) to humanity, sent through **Prophet Muhammad (ﷺ)**.  
+- Muslims believe the Qur’an is the **exact words of Allah**, unchanged since it was revealed (≈ 610‑632 CE).  
+
+## 2. How was it revealed?  
+- The first revelation came in **Cave of Hira** near Mecca, when Angel **Jibril (Gabriel)** whispered the first verses:  
+  > **“Iqra’ (Read/Recite)!** – *Surah Al‑‘Alaq* (96:1)  
+
+- Over **23 years**, 114 **surah

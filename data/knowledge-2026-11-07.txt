@@ -465,3 +465,6 @@ Knowledge 865 - Health - Health pathi sollu - Nalla question! Daily try pannu - 
 Knowledge Quiz
 Q: How many seasons did the Sci-Fi television show "Stargate Atlantis" have?
 A: 5 - Entertainment: Television
+Knowledge Quiz
+Q: How many bones are in the human body?
+A: 206 - Science & Nature

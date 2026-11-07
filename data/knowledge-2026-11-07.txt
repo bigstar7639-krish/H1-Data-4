@@ -449,3 +449,6 @@ A: 360 - Science: Mathematics
 Knowledge Quiz
 Q: What does GPS stand for?
 A: Global Positioning System - Science: Gadgets
+Knowledge Quiz
+Q: In what year was "Metal Gear Solid" released in North America?
+A: 1998 - Entertainment: Video Games

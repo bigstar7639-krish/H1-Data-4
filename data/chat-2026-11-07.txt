@@ -873,3 +873,17 @@ Reading 1030 - Harry Potter!
 Story 1031
 Oru chinna tokyo la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Vocab 1032 - Friend = Nanban
+Knowledge 1033 - Internet - Hey friend! 🌟  
+**Internet**‑‑nu solra **digital world‑oda bridge** laam. In simple terms, it’s a **global network of computers** that talks to each other using protocols like TCP/IP. Let’s break it down Tanglish‑style:
+
+---
+
+## 1️⃣ What is the Internet?  
+- **Definition:** Oru massive network of **servers, routers, and devices** that exchange data across the world.  
+- **How it works:** Every device gets an **IP address** (like a home address) and data travels in **packets** via **fiber‑optic cables, satellites, Wi‑Fi, 4G/5G** etc.
+
+## 2️⃣ Main Parts  
+| Part | Tamil Explanation | English Equivalent |
+|------|-------------------|--------------------|
+| **Server** | தகவல் சேமிக்கும் பெரிய கணினி | Host that stores and serves data |
+| **Router** | பாதை தேர்ந்தெடுக்கும் நடுவண் | Directs traff

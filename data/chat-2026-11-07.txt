@@ -427,3 +427,4 @@ Fact 36 - Octopus ku 3 heart!
 Game 777 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Kavithai 778 - Un Sirippu - En Vazhkai! - Aira
 Reading 779 - Thirukkural - Valluvar!
+Talk 780 - Animals pathi pesalama? Sollu!

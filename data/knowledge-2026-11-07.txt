@@ -399,3 +399,6 @@ Biology = **Life‑science** (உயிரியல்). It studies **living org
 Knowledge Quiz
 Q: Which company developed and published Game Dev Tycoon?
 A: Greenheart Games - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the capital of South Vietnam before the Vietnam War?
+A: Saigon - History

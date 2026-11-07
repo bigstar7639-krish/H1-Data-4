@@ -776,3 +776,4 @@ Q 957 - Ne Dream la eppadi improve panna mudiyum?
 Knowledge 958 - Success - Success pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Q 959 - Tree pathi oru story kekkura?
 Smart Q 960 - Health la eppadi jeyikkarathu?
+Game 961 - Dice - Ne Dice nu Sollu!

@@ -671,3 +671,6 @@ A: Mycroft Holmes - Entertainment: Books
 Knowledge Quiz
 Q: How many Star Spirits do you rescue in the Nintendo 64 video game "Paper Mario"?
 A: 7 - Entertainment: Video Games
+Knowledge Quiz
+Q: Who played the female lead in the 1933 film "King Kong"?
+A: Fay Wray - Entertainment: Film

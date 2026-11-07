@@ -768,3 +768,5 @@ Movie 950 - Jailer - Rajini - Mass!
 Reading 951 - Atomic Habits!
 Q 952 - Peace pathi oru story kekkura?
 Movie 953 - Leo - Vijay - Action!
+Coding Q 954 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`

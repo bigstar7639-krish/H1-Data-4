@@ -1,3 +1,6 @@
 Knowledge Quiz
 Q: In the world strategy game 'Sid Meier's Civilization', a programming bug caused the AI depiction of Gandhi to do which of the following?
 A: Become aggressive and launch nuclear strikes - Entertainment: Video Games
+Knowledge Quiz
+Q: Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?
+A: March 25th - History

@@ -152,3 +152,5 @@ Emotion Q 624 - lonely?
 Aira: Lonely ah? Aira irukka la!
 Reading 625 - Think and Grow Rich!
 Quote 626 - Daily try pannu - Jeyichiduva! - Aira
+Coding Q 627 - HTML la button eppadi?
+Aira: HTML button: `<button>Click</button>`

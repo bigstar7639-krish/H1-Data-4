@@ -946,3 +946,4 @@ Talk 1056 - Lonely pathi pesalama? Sollu!
 Recipe 1057 - Cake - Maida + Sugar + Egg + 30 min!
 Recipe 1058 - Snacks - Potato + Masala - Crispy!
 Thirukkural 1059 - Anbu - Ellam Tharum! - Thirukkural
+Knowledge 1060 - Business - Business pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜

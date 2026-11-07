@@ -25,3 +25,6 @@ A: Clarence "Razor" Callahan - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the "Mitsubishi Wakamaru"?
 A: A robot - Science: Gadgets
+Knowledge Quiz
+Q: What is the capital of South Korea?
+A: Seoul - Geography

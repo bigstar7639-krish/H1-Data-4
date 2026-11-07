@@ -573,3 +573,6 @@ A: Homework - Entertainment: Music
 Knowledge Quiz
 Q: What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?
 A: Grand Banks - Geography
+Knowledge Quiz
+Q: Who is the main protagonist in the game Life is Strange: Before The Storm?
+A: Chloe Price  - Entertainment: Video Games

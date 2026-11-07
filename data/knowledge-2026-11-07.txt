@@ -756,3 +756,6 @@ A: Quebec City - Sports
 Knowledge Quiz
 Q: Brendan Fraser starred in the following movies, except which one?
 A: Titanic - Entertainment: Film
+Knowledge Quiz
+Q: Which Australian Prime Minister disappeared in 1967 and was never found?
+A: Harold Holt - History

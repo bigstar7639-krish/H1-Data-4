@@ -171,3 +171,4 @@ Game 639 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Health 640 - Yoga Tip: Daily 5 min deep breath edu!
 World Story 641
 Oru paris la oru ponnu irunthan! Daily coding pannan pannan! Oru naal treasure kedaichuchu! Life maariduchu!
+Talk 642 - Future Tech pathi pesalama? Sollu!

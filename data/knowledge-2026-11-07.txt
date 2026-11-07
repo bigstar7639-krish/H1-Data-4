@@ -680,3 +680,6 @@ A: Brass - Entertainment: Music
 Knowledge Quiz
 Q: Which of these NHL teams originally played in Atlanta?
 A: Calgary Flames - Sports
+Knowledge Quiz
+Q: Who created the pump "F.L.U.D.D." Mario uses in Super Mario Sunshine?
+A: Elvin Gadd - Entertainment: Video Games

@@ -76,3 +76,6 @@ A: Bassoon - Entertainment: Music
 Knowledge Quiz
 Q: In what year did the Berlin Wall fall?
 A: 1989 - History
+Knowledge Quiz
+Q: What is the AK-47's name in Counter Strike: Source?
+A: CV-47 - Entertainment: Video Games

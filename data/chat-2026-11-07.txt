@@ -677,3 +677,5 @@ World Story 913
 Oru chinna forest la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Story 914
 Oru paris la oru singer irunthan! Daily travel pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!
+Emotion Q 915 - angry?
+Aira: Kovam ah? Deep breath edu!

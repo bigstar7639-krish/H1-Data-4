@@ -28,3 +28,6 @@ A: A robot - Science: Gadgets
 Knowledge Quiz
 Q: What is the capital of South Korea?
 A: Seoul - Geography
+Knowledge Quiz
+Q: This movie contains the quote, "I feel the need ... the need for speed!"
+A: Top Gun - Entertainment: Film

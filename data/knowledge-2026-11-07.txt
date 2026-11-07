@@ -502,3 +502,6 @@ A: Catherine Zeta-Jones - Celebrities
 Knowledge Quiz
 Q: Which of these 1900s tanks were designed and built BEFORE the others?
 A: Renault FT - History
+Knowledge Quiz
+Q: Who proved Fermat's Last Theorem?
+A: Andrew Wiles - Science: Mathematics

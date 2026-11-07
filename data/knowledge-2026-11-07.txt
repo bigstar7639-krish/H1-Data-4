@@ -70,3 +70,6 @@ A: 14 - Entertainment: Video Games
 Knowledge Quiz
 Q: In flight systems, what does the initialism "TCAS" stand for?
 A: Traffic Collision Avoidance System - General Knowledge
+Knowledge Quiz
+Q: Which musical instrument is nicknamed 'the clown of the orchestra'?
+A: Bassoon - Entertainment: Music

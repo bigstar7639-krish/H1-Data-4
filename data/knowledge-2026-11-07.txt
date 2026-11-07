@@ -337,3 +337,6 @@ A: Chocolate syrup - Entertainment: Film
 Knowledge Quiz
 Q: In what sport is a "shuttlecock" used?
 A: Badminton - Sports
+Knowledge Quiz
+Q: In the 2002 video game "Kingdom Hearts", how many Keyblades are usable?
+A: 18 - Entertainment: Video Games

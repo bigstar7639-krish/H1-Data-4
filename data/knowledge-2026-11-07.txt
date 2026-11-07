@@ -718,3 +718,19 @@ A: Suriname - Geography
 Knowledge Quiz
 Q: Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   
 A: Richard Branson - General Knowledge
+Knowledge 1050 - Plants - Hey buddy! 🌿 **Plants**-ஐ பற்றி கொஞ்சம் சொல்லிக்கறேன், Tamil‑Tanglish style‑ல 😄
+
+---
+
+## 1️⃣ Plants என்ன?
+Plants = **இயற்கையின் சிறிய காரசாரி (factory)**. அவை **photosynthesis** மூலம் சூரியஒளியையும், காற்றில் உள்ள **CO₂**-யும், நீரையும் எடுத்துக்கொண்டு, **ஆக்ஸிஜன்** மற்றும் **ஷுகர்** (glucose) உருவாக்கும். இதனால்தான் நம்ம எல்லாம் சுவாசிக்க முடிகிறது!
+
+## 2️⃣ Plant parts (முதன்மை பகுதிகள்)
+| Part | Tamil name | Function |
+|------|------------|----------|
+| **Root** | வேர் | நீர், ஊட்டச்சத்து இழுத்து, நிலத்தில் நிலைநிறுத்தம் |
+| **Stem** | கிளை/கொம்பு | Support, transport (xylem & phloem) |
+| **Leaf** | இலை | Photosynthesis hub (chlorophyll) |
+| **Flower** | பூ | Reproduction (pollen, seeds) |
+| **Fruit** | பழம் | Seeds-ஐ பாதுகாத்து, பரவல் (dispersal) |
+| **Seed** | விதை | Next generation-ன்

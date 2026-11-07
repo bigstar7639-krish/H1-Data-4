@@ -994,3 +994,4 @@ Health 1092 - Health Tip: 7 mani neram thoongunga!
 Reading 1093 - Ramayana!
 Kavithai 1094 - Un Kural - En Isai! - Aira
 Vocab 1095 - Courage = Thairiyam
+Thirukkural 1096 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural

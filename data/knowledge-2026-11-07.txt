@@ -647,3 +647,6 @@ A: My World 2.0 - Entertainment: Music
 Knowledge Quiz
 Q: The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
 A: Taiwan - Science: Computers
+Knowledge Quiz
+Q: In Touhou 12: Undefined Fantastic Object, which of these was not a playable character?
+A: Izayoi Sakuya - Entertainment: Video Games

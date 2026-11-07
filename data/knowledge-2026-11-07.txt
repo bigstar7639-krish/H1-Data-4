@@ -79,3 +79,6 @@ A: 1989 - History
 Knowledge Quiz
 Q: What is the AK-47's name in Counter Strike: Source?
 A: CV-47 - Entertainment: Video Games
+Knowledge Quiz
+Q: What genre of music did the band Type O Negative play?
+A: Gothic Metal - Entertainment: Music

@@ -506,3 +506,5 @@ Reading 818 - Alchemist!
 Quote 819 - Daily try pannu - Jeyichiduva! - Aira
 Coding Q 820 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Joke 821
+Teacher: Yen late? Student: School Ahead board!

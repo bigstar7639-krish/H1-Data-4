@@ -665,3 +665,5 @@ Teacher: Yen late? Student: School Ahead board!
 Talk 905 - Dog pathi pesalama? Sollu!
 World Story 906
 Oru chinna delhi la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Story 907
+Oru madurai la oru coder irunthan! Daily try pannan pannan! Oru naal book kedaichuchu! Life maariduchu!

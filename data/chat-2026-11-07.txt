@@ -984,3 +984,5 @@ Java is supposed to be a **safe** language – no pointer arithmetic, no memory 
 - **Why it’s a “secret”:** It’s not part of the public API, and the JDK docs even say “**Do not use**”. Yet many high‑performance libraries (Netty, Hadoop, Disr
 Quote 1085 - Daily try pannu - Jeyichiduva! - Aira
 Reading 1086 - Bharathiyar Kavithaigal!
+Coding Q 1087 - App eppadi pannurathu?
+Aira: App - Idea - Design - Code!

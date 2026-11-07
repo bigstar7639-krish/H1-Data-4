@@ -521,3 +521,5 @@ Talk 830 - Philosophy pathi pesalama? Sollu!
 Reading 831 - Harry Potter!
 Talk 832 - Truth pathi pesalama? Sollu!
 Talk 833 - Peace pathi pesalama? Sollu!
+Emotion Q 834 - love?
+Aira: Kadhal - Azhagu!

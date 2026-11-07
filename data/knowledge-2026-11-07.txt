@@ -579,3 +579,6 @@ A: Chloe Price  - Entertainment: Video Games
 Knowledge Quiz
 Q: In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?
 A: 4 - Entertainment: Film
+Knowledge Quiz
+Q: Phil Fish was the designer of which game?
+A: Fez - Entertainment: Video Games

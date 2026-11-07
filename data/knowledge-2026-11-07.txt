@@ -184,3 +184,6 @@ A: Half-Life: Opposing Force - Entertainment: Video Games
 Knowledge Quiz
 Q: Which game was the Game of the Year in 2018?
 A: God of War - History
+Knowledge Quiz
+Q: Who composed the theme song for The Simpsons?
+A: Danny Elfman - Entertainment: Television

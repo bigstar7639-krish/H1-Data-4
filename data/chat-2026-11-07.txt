@@ -85,3 +85,4 @@ Fact 26 - Tamil - 2000+ varusha mozhi!
 Game 589 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Vocab 590 - Courage = Thairiyam
 Kavithai 591 - Un Sirippu - En Vazhkai! - Aira
+Talk 592 - Bhagavad Gita pathi pesalama? Sollu!

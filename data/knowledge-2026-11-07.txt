@@ -222,3 +222,6 @@ A: Honey Fungus - Science & Nature
 Knowledge Quiz
 Q: What type of function is x²+2x+1?
 A: Quadratic - Science: Mathematics
+Knowledge Quiz
+Q: When did the online streaming service "Mixer" launch?
+A: 2016 - Science: Computers

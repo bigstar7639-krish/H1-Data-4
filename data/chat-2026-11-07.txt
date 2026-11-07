@@ -200,3 +200,5 @@ Smart Q 653 - Courage la eppadi jeyikkarathu?
 Q 654 - Ne React la eppadi improve panna mudiyum?
 Coding Q 655 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+World Story 656
+Oru delhi la oru farmer irunthan! Daily pray pannaan pannan! Oru naal friend kedaichuchu! Life maariduchu!

@@ -709,3 +709,6 @@ A: MEKA - Entertainment: Video Games
 Knowledge Quiz
 Q: Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?
 A: MGMT - Entertainment: Music
+Knowledge Quiz
+Q: In the Nintendo DS game 'Ghost Trick: Phantom Detective', what is the name of the hitman seen at the start of the game?
+A: Nearsighted Jeego - Entertainment: Video Games

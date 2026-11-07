@@ -224,3 +224,4 @@ Movie 672 - Leo - Vijay - Action!
 Pazhamozhi 673 - Aalai Paathu - Aadi Paaru!
 Reading 674 - Thirukkural - Valluvar!
 Reading 675 - Harry Potter!
+Business Idea 676 - Tiffin Business - Veetla Samayal - Daily 500 Rs!

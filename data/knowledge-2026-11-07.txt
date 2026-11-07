@@ -712,3 +712,6 @@ A: MGMT - Entertainment: Music
 Knowledge Quiz
 Q: In the Nintendo DS game 'Ghost Trick: Phantom Detective', what is the name of the hitman seen at the start of the game?
 A: Nearsighted Jeego - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the smallest country in South America by area?
+A: Suriname - Geography

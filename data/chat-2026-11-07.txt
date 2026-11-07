@@ -787,3 +787,5 @@ Reading 967 - Harry Potter!
 Kavithai 968 - Un Sirippu - En Vazhkai! - Aira
 Talk 969 - Meditation pathi pesalama? Sollu!
 Vocab 970 - Courage = Thairiyam
+World Story 971
+Oru chinna sea la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!

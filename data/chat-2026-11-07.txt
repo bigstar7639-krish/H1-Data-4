@@ -198,3 +198,5 @@ Motivation 652
 Paravalla! Rest edu - Thirumba try pannu!
 Smart Q 653 - Courage la eppadi jeyikkarathu?
 Q 654 - Ne React la eppadi improve panna mudiyum?
+Coding Q 655 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!

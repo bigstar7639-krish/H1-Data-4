@@ -455,3 +455,6 @@ A: 1998 - Entertainment: Video Games
 Knowledge Quiz
 Q: Who won the premier league title in the 2015-2016 season following a fairy tale run?
 A: Leicester City - Sports
+Knowledge Quiz
+Q: Which of these is Daft Punk's debut single?
+A: The New Wave - Entertainment: Music

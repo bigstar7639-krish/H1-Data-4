@@ -887,3 +887,4 @@ Knowledge 1033 - Internet - Hey friend! 🌟
 |------|-------------------|--------------------|
 | **Server** | தகவல் சேமிக்கும் பெரிய கணினி | Host that stores and serves data |
 | **Router** | பாதை தேர்ந்தெடுக்கும் நடுவண் | Directs traff
+Reading 1034 - Thirukkural - Valluvar!

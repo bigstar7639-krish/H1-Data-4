@@ -187,3 +187,6 @@ A: God of War - History
 Knowledge Quiz
 Q: Who composed the theme song for The Simpsons?
 A: Danny Elfman - Entertainment: Television
+Knowledge Quiz
+Q: What book series published by Jim Butcher follows a wizard in modern day Chicago?
+A: The Dresden Files - Entertainment: Books

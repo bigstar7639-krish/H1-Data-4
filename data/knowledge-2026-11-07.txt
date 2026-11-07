@@ -511,3 +511,6 @@ A: Toy Story 2 - Entertainment: Film
 Knowledge Quiz
 Q: In the Half-Life series, Gordon Freeman's signature weapon is a:
 A: Crowbar - Entertainment: Video Games
+Knowledge Quiz
+Q: Excluding their instructor, how many members of Class VII are there in the game "Legend of Heroes: Trails of Cold Steel"?
+A: 9 - Entertainment: Video Games

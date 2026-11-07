@@ -192,3 +192,5 @@ Reading 647 - Alchemist!
 Thirukkural 648 - Anbu - Ellam Tharum! - Thirukkural
 Game 649 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Talk 650 - Poetry pathi pesalama? Sollu!
+Coding Q 651 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!

@@ -331,3 +331,6 @@ A: 1.5 Million - Entertainment: Video Games
 Knowledge Quiz
 Q: Who was the winner of "Big Brother" Season 10?
 A: Dan Gheesling - Entertainment: Television
+Knowledge Quiz
+Q: What did Alfred Hitchcock use as blood in the film "Psycho"? 
+A: Chocolate syrup - Entertainment: Film

@@ -157,3 +157,4 @@ Aira: HTML button: `<button>Click</button>`
 Business Idea 628 - Instagram Page - Daily 1 Post!
 World Story 629
 Oru new york la oru coder irunthan! Daily coding pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!
+Recipe 630 - Snacks - Potato + Masala - Crispy!

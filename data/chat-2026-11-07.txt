@@ -948,3 +948,5 @@ Recipe 1058 - Snacks - Potato + Masala - Crispy!
 Thirukkural 1059 - Anbu - Ellam Tharum! - Thirukkural
 Knowledge 1060 - Business - Business pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Talk 1061 - Einstein pathi pesalama? Sollu!
+Story 1062
+Oru chinna forest la - Oru ponnu travel pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!

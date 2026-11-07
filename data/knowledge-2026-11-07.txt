@@ -478,3 +478,6 @@ A: Marcel - Entertainment: Television
 Knowledge Quiz
 Q: Which of these is NOT a name of a city in the main island of PLAYERUNKNOWN'S BATTLEGROUNDS?
 A: Belushya Guba - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the world's first video game console?
+A: Magnavox Odyssey - Entertainment: Video Games

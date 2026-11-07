@@ -494,3 +494,5 @@ Oru chinna oor la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! Aan
 Kavithai 808 - Un Sirippu - En Vazhkai! - Aira
 Talk 809 - India pathi pesalama? Sollu!
 Knowledge 810 - Universe - Universe pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Coding Q 811 - React la component enna?
+Aira: React component - Chinna piece!

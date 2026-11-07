@@ -677,3 +677,6 @@ A: Fay Wray - Entertainment: Film
 Knowledge Quiz
 Q: The tuba is a part of which musical family?
 A: Brass - Entertainment: Music
+Knowledge Quiz
+Q: Which of these NHL teams originally played in Atlanta?
+A: Calgary Flames - Sports

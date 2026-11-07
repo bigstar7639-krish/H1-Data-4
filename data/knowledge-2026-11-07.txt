@@ -638,3 +638,6 @@ A: Scrappy Doo - Entertainment: Film
 Knowledge Quiz
 Q: Which species is a "mountain chicken"?
 A: Frog - Animals
+Knowledge Quiz
+Q: Where did the dog breed "Chihuahua" originate?
+A: Mexico - Science & Nature

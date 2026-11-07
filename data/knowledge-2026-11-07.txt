@@ -134,3 +134,6 @@ A: Dragon King: The Fighting Game - Entertainment: Video Games
 Knowledge Quiz
 Q: This composer worked on the 2003 TV series Battlestar Galatica.
 A: Bear McCreary - Entertainment: Television
+Knowledge Quiz
+Q: When was Chapter 1 of the Source Engine mod "Underhell" released?
+A: September 1st, 2013 - Entertainment: Video Games

@@ -86,3 +86,4 @@ Game 589 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Vocab 590 - Courage = Thairiyam
 Kavithai 591 - Un Sirippu - En Vazhkai! - Aira
 Talk 592 - Bhagavad Gita pathi pesalama? Sollu!
+Thirukkural 593 - Kattrathu - Kai Mann Alavu! - Thirukkural

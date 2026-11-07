@@ -668,3 +668,6 @@ A: Poison Potato - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What is the name of Sherlock Holmes's brother?
 A: Mycroft Holmes - Entertainment: Books
+Knowledge Quiz
+Q: How many Star Spirits do you rescue in the Nintendo 64 video game "Paper Mario"?
+A: 7 - Entertainment: Video Games

@@ -753,3 +753,6 @@ A: DMC - Entertainment: Video Games
 Knowledge Quiz
 Q: Which city did the former NHL team "The Nordiques" originiate from?
 A: Quebec City - Sports
+Knowledge Quiz
+Q: Brendan Fraser starred in the following movies, except which one?
+A: Titanic - Entertainment: Film

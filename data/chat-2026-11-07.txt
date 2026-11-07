@@ -473,3 +473,19 @@ Coding Q 803 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Health 804 - Health Tip: Daily 30 min walk ponga!
 Thirukkural 805 - Anbu - Ellam Tharum! - Thirukkural
+Knowledge 806 - Biology - Hey buddy! நான் Aira, உங்க friendly “Tamil‑Tanglish” guide! 😄  
+Let’s chat about **Biology** (பயோலஜி) – the science of life.
+
+---
+
+## 1️⃣ What is Biology?  
+Biology = **Life‑science** (உயிரியல்). It studies **living organisms** – from the tiniest microbes to giant whales – and how they work, grow, reproduce, and interact with their environment.
+
+## 2️⃣ Main Branches (முக்கிய பிரிவுகள்)
+
+| Branch | What it covers | Example |
+|--------|----------------|---------|
+| **Botany** (உயிரியல் – தாவரவியல்) | Plants, their anatomy, physiology, evolution | Flowering plants, algae |
+| **Zoology** (மிருகவியல்) | Animals, behavior, classification | Mammals, insects |
+| **Microbiology** (சிறுநுணு உயிரியல்) | Bacteria, viruses, fungi | Antibiotic resistance |
+| **Genetics** (ஜெனெடிக்ஸ்) | DNA, inheritance,

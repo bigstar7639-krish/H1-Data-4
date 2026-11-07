@@ -505,3 +505,6 @@ A: Renault FT - History
 Knowledge Quiz
 Q: Who proved Fermat's Last Theorem?
 A: Andrew Wiles - Science: Mathematics
+Knowledge Quiz
+Q: Which movie sequel had improved box office results compared to its original film?
+A: Toy Story 2 - Entertainment: Film

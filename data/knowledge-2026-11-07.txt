@@ -481,3 +481,6 @@ A: Belushya Guba - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the world's first video game console?
 A: Magnavox Odyssey - Entertainment: Video Games
+Knowledge Quiz
+Q: Where does the original Friday The 13th movie take place?
+A: Camp Crystal Lake - Entertainment: Film

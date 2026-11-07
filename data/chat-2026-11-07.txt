@@ -992,3 +992,4 @@ Thirukkural 1090 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Smart Q 1091 - Bible la eppadi jeyikkarathu?
 Health 1092 - Health Tip: 7 mani neram thoongunga!
 Reading 1093 - Ramayana!
+Kavithai 1094 - Un Kural - En Isai! - Aira

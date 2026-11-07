@@ -968,3 +968,5 @@ Vocab 1074 - Dream = Kanavu
 Talk 1075 - Storytelling pathi pesalama? Sollu!
 Quote 1076 - Daily try pannu - Jeyichiduva! - Aira
 Recipe 1077 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Joke 1078
+Teacher: Yen late? Student: School Ahead board!

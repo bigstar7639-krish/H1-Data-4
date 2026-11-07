@@ -172,3 +172,6 @@ Knowledge 643 - Animals - Hey buddy! 🐾 **Animals pathi konjam fun facts** s
 Knowledge Quiz
 Q: How many legs is it biologically impossible for a centipede to have?
 A: 100 - Science & Nature
+Knowledge Quiz
+Q: Which nation hosted the FIFA World Cup in 2006?
+A: Germany - Sports

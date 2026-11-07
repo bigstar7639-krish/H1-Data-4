@@ -684,3 +684,5 @@ Coding Q 917 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
 Health 918 - Health Tip: Daily 8 glass water kudinga!
 Quote 919 - Daily try pannu - Jeyichiduva! - Aira
+Coding Q 920 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`

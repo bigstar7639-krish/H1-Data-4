@@ -636,3 +636,5 @@ Q 895 - Un life la Power eppadi irukku?
 Story 896
 Oru delhi la oru doctor irunthan! Daily travel pannan pannan! Oru naal success kedaichuchu! Life maariduchu!
 Game 897 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+World Story 898
+Oru chennai la oru student irunthan! Daily help pannan pannan! Oru naal friend kedaichuchu! Life maariduchu!

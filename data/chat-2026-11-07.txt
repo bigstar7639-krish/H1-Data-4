@@ -859,3 +859,5 @@ Pazhamozhi 1019 - Sontha Kaal la Ninnu - Jeyippa!
 Movie 1020 - Harry Potter - Magic!
 Quote 1021 - Daily try pannu - Jeyichiduva! - Aira
 Smart Q 1022 - Chennai la eppadi jeyikkarathu?
+Story 1023
+Oru chinna chennai la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!

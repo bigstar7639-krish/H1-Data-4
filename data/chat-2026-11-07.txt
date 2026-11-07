@@ -62,3 +62,4 @@ Game 567 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Smart Q 568 - Physics la eppadi jeyikkarathu?
 Motivation 569
 Paravalla! Rest edu - Thirumba try pannu!
+Talk 570 - Tech pathi pesalama? Sollu!

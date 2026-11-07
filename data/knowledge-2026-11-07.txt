@@ -620,3 +620,6 @@ A: Space Invaders - Entertainment: Video Games
 Knowledge Quiz
 Q: This Greek mythological figure is the god/goddess of battle strategy (among other things).
 A: Athena - Mythology
+Knowledge Quiz
+Q: In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?
+A: 1-7 - Sports

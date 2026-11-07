@@ -128,3 +128,6 @@ A: 7 - Science: Mathematics
 Knowledge Quiz
 Q: What is the name of the final villain in the manga series "Bleach"?
 A: Yhwach - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: Before Super Smash Bros. contained Nintendo characters, what was it known as internally?
+A: Dragon King: The Fighting Game - Entertainment: Video Games

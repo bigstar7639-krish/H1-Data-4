@@ -219,3 +219,6 @@ A: 5 - Entertainment: Television
 Knowledge Quiz
 Q: What is the largest living organism currently known to man?
 A: Honey Fungus - Science & Nature
+Knowledge Quiz
+Q: What type of function is x²+2x+1?
+A: Quadratic - Science: Mathematics

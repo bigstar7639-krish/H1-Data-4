@@ -843,3 +843,4 @@ Aira: Super! Happy ah irukka!
 Quote 1007 - Daily try pannu - Jeyichiduva! - Aira
 Fact 44 - Octopus ku 3 heart!
 Q 1009 - Kindness pathi oru story kekkura?
+Talk 1010 - Business pathi pesalama? Sollu!

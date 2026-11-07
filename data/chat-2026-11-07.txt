@@ -916,3 +916,4 @@ Coding Q 1045 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Motivation 1046
 Paravalla! Rest edu - Thirumba try pannu!
+Smart Q 1047 - Philosophy la eppadi jeyikkarathu?

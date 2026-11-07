@@ -533,3 +533,6 @@ A: Stamen - Science & Nature
 Knowledge Quiz
 Q: Which basketball team has attended the most NBA grand finals?
 A: Los Angeles Lakers - Sports
+Knowledge Quiz
+Q: What is an example of a bacterial pathogen?
+A: Cholera - Science & Nature

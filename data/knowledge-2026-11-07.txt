@@ -768,3 +768,6 @@ A: a lawnmower - Entertainment: Film
 Knowledge Quiz
 Q: What is the Klingon's afterlife called?
 A: Sto-vo-kor - Entertainment: Television
+Knowledge Quiz
+Q: The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?
+A: 100 Megatons - History

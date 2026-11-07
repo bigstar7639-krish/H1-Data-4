@@ -21,3 +21,4 @@ kan - in.gazette.karnataka_d.2022-03-22.DPAR90SDE2021 - Karnataka Daily Gazette,
 ben - electric-motor-repair-sector-1 - Electric Motor Repair
 jpn - text-19 - Text 19
 kan - in.gazette.karnataka_eo.2020-08-06.139 - Karnataka ExtraOrdinary Gazette, 2020-08-06, Extra Ordinary, Part III
+kan - in.gazette.karnataka_d.2021-07-09.2721 - Karnataka Daily Gazette, 2021-07-09, Daily

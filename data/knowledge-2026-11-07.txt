@@ -659,3 +659,6 @@ A: Center Parcs - General Knowledge
 Knowledge Quiz
 Q: Of which 90s boy band was Justin Timberlake a member?
 A: *NSYNC - Entertainment: Music
+Knowledge Quiz
+Q: Which class of animals are newts members of?
+A: Amphibian - Animals

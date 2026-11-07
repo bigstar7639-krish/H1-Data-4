@@ -191,3 +191,4 @@ Thirukkural 646 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Reading 647 - Alchemist!
 Thirukkural 648 - Anbu - Ellam Tharum! - Thirukkural
 Game 649 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Talk 650 - Poetry pathi pesalama? Sollu!

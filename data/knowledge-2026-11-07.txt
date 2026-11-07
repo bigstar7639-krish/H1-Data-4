@@ -472,3 +472,6 @@ Knowledge 868 - Meditation - Meditation pathi sollu - Nalla question! Daily try 
 Knowledge Quiz
 Q: How many stars are there to collect in Super Mario 64?
 A: 120 - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the name of Ross' pet monkey on "Friends"?
+A: Marcel - Entertainment: Television

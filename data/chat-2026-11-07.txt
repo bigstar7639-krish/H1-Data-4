@@ -95,3 +95,23 @@ Smart Q 598 - Tamil Nadu la eppadi jeyikkarathu?
 Health 599 - Health Tip: 7 mani neram thoongunga!
 Reading 600 - Atomic Habits!
 Kavithai 601 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Knowledge 602 - Physics - Hey buddy! 🙌  
+Physics-ஐ பற்றி கொஞ்சம் டாங்லிஷ்-ல் பேசலாமா? 🎓
+
+---
+
+## 1️⃣ Physics என்ன?  
+Physics = **உலகின் அடிப்படை விதிகள்**‑ஐப் புரிந்து கொள்வது.  
+Matter (பொருள்), Energy (ஆற்றல்) மற்றும் அவை எப்படி **interact** (ஒன்றோடு ஒன்று செய்கிறது) என்பதை கண்டறிவதே physics‑ன் மையம்.
+
+---
+
+## 2️⃣ முக்கிய கிளைகள் (Main Branches)
+
+| கிளை | What it studies | Real‑world example |
+|------|----------------|--------------------|
+| **Classical Mechanics** | Motion, forces, Newton’s laws | Car brakes, basketball shot |
+| **Thermodynamics** | Heat, temperature, entropy | Ice cream melting, engine efficiency |
+| **Electromagnetism** | Electric & magnetic fields, circuits | Light bulbs, mobile phones |
+| **Optics** | Light propagation, lenses, colors | Cameras, rainbow |
+| **Quantum Mechanics** | Sub‑atomic

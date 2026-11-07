@@ -294,3 +294,6 @@ A: Ryan Giggs - Sports
 Knowledge Quiz
 Q: Which of the music artists did NOT perform in the Live Aid concert in Wembley Stadium, London in 1985?
 A: The Rolling Stones - Entertainment: Music
+Knowledge Quiz
+Q: What is the capital of India?
+A: New Delhi - Geography

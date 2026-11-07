@@ -144,3 +144,6 @@ Knowledge 631 - Robot - Robot pathi sollu - Nalla question! Daily try pannu - Je
 Knowledge Quiz
 Q: In what year was the last natural case of smallpox documented?
 A: 1977 - History
+Knowledge Quiz
+Q: What is the name of the currency used in Ethiopia?
+A: Birr - General Knowledge

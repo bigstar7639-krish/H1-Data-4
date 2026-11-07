@@ -687,3 +687,4 @@ Quote 919 - Daily try pannu - Jeyichiduva! - Aira
 Coding Q 920 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Talk 921 - Angry pathi pesalama? Sollu!
+Q 922 - Unakku Travel pathi enna theriyum?

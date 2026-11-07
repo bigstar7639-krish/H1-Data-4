@@ -122,3 +122,6 @@ A: Cherry MX Blue - Science: Computers
 Knowledge Quiz
 Q: What is the theme song of "Neon Genesis Evangelion"?
 A: A Cruel Angel's Thesis - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: How many sides does a heptagon have?
+A: 7 - Science: Mathematics

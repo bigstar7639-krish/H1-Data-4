@@ -504,3 +504,5 @@ Health 816 - Yoga Tip: Daily 5 min deep breath edu!
 Business Idea 817 - Instagram Page - Daily 1 Post!
 Reading 818 - Alchemist!
 Quote 819 - Daily try pannu - Jeyichiduva! - Aira
+Coding Q 820 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`

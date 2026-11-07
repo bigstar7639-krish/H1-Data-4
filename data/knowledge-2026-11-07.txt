@@ -64,3 +64,6 @@ A: 100 - Science & Nature
 Knowledge Quiz
 Q: By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?
 A: The Artful Dodger - Entertainment: Books
+Knowledge Quiz
+Q: In the 2002 video game "Kingdom Hearts", how many playable worlds were there?
+A: 14 - Entertainment: Video Games

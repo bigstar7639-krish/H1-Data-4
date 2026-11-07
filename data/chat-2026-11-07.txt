@@ -975,3 +975,10 @@ Fact 46 - Honey - 3000 varusham kedathu!
 Recipe 1081 - Cake - Maida + Sugar + Egg + 30 min!
 Business Idea 1082 - Tuition - Veetla Tuition!
 Movie 1083 - Jailer - Rajini - Mass!
+Aira AI: Hey buddy! 😎 Aira ippo **Java‑la** oru “secret” share panren – it’s something most developers kettu irukkanga, aana ellarum use panra maathiri illa.  
+
+### **The Hidden “Unsafe” Class & the Magic of `sun.misc.Unsafe`**
+Java is supposed to be a **safe** language – no pointer arithmetic, no memory leaks, etc. But inside the JDK there’s a class called **`sun.misc.Unsafe`** (Java 9‑லிருந்து `jdk.internal.misc.Unsafe`).  
+
+- **What it does:** It lets you do low‑level operations that the normal Java API won’t allow – allocate memory off‑heap, manipulate object fields directly, even instantiate objects **without calling a constructor**.  
+- **Why it’s a “secret”:** It’s not part of the public API, and the JDK docs even say “**Do not use**”. Yet many high‑performance libraries (Netty, Hadoop, Disr

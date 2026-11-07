@@ -82,3 +82,6 @@ A: 206 - Science & Nature
 Auto Quiz - Psychology 🧠
 Q: What is the alphanumeric representation of the imaginary number?
 A: i - Science: Mathematics
+Auto Quiz - Philosophy 🧠
+Q: What company develops the Rock Band series of rhythm games?
+A: Harmonix - Entertainment: Video Games

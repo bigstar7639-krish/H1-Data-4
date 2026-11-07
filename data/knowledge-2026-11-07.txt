@@ -662,3 +662,6 @@ A: *NSYNC - Entertainment: Music
 Knowledge Quiz
 Q: Which class of animals are newts members of?
 A: Amphibian - Animals
+Knowledge Quiz
+Q: In "Toriko", which of the following foods is knowingly compatible with Toriko?
+A: Poison Potato - Entertainment: Japanese Anime & Manga

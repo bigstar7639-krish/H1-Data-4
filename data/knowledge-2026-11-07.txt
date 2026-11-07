@@ -228,3 +228,6 @@ A: 2016 - Science: Computers
 Knowledge Quiz
 Q: What was Bon Iver's debut album released in 2007?
 A: For Emma, Forever Ago - Entertainment: Music
+Knowledge Quiz
+Q: Which of the following is the longest river in Europe?
+A: Volga - Geography

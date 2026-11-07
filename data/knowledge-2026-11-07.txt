@@ -396,3 +396,6 @@ Biology = **Life‑science** (உயிரியல்). It studies **living org
 | **Zoology** (மிருகவியல்) | Animals, behavior, classification | Mammals, insects |
 | **Microbiology** (சிறுநுணு உயிரியல்) | Bacteria, viruses, fungi | Antibiotic resistance |
 | **Genetics** (ஜெனெடிக்ஸ்) | DNA, inheritance,
+Knowledge Quiz
+Q: Which company developed and published Game Dev Tycoon?
+A: Greenheart Games - Entertainment: Video Games

@@ -644,3 +644,6 @@ A: Mexico - Science & Nature
 Knowledge Quiz
 Q: What is Justin Bieber's debut Album?
 A: My World 2.0 - Entertainment: Music
+Knowledge Quiz
+Q: The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?
+A: Taiwan - Science: Computers

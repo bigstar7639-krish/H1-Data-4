@@ -362,3 +362,6 @@ A: Jotaro Kujo - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: What disease crippled President Franklin D. Roosevelt and led him to help the nation find a cure? 
 A: Polio - History
+Knowledge Quiz
+Q: The Thirty Years War ended with which treaty?
+A: Peace of Westphalia - History

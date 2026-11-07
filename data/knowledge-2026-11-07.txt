@@ -750,3 +750,6 @@ Knowledge 1060 - Business - Business pathi sollu - Nalla question! Daily try pan
 Knowledge Quiz
 Q: One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?
 A: DMC - Entertainment: Video Games
+Knowledge Quiz
+Q: Which city did the former NHL team "The Nordiques" originiate from?
+A: Quebec City - Sports

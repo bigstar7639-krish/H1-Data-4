@@ -58,3 +58,4 @@ Eiffel Tower - cu31924101157364 - Wireless time signals. Radio-telegraphic time 
 Eiffel Tower - eiffeltower00gree - Eiffel Tower
 Psychology - bwb_S0-ASV-022 - Introduction to Experimental Psychology
 Psychology - consultingclinic0040unse - Consulting and Clinical Psychology
+Philosophy - bwb_Y0-COU-477 - The moral philosophy of George Berkeley

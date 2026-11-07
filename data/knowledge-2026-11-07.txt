@@ -52,3 +52,6 @@ Knowledge 565 - Confidence - **Confidence-ஐ (நம்பிக்கையை
 Knowledge Quiz
 Q: What was the name of the planned invasion of Japan towards the end of World War II?
 A: Operation Downfall - History
+Knowledge Quiz
+Q: The "Tibia" is found in which part of the body?
+A: Leg - Science & Nature

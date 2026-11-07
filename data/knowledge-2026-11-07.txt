@@ -617,3 +617,6 @@ Knowledge 958 - Success - Success pathi sollu - Nalla question! Daily try pannu 
 Knowledge Quiz
 Q: Of the following space shooter games, which came out first?
 A: Space Invaders - Entertainment: Video Games
+Knowledge Quiz
+Q: This Greek mythological figure is the god/goddess of battle strategy (among other things).
+A: Athena - Mythology

@@ -436,3 +436,6 @@ A: Lothar Matthäus - Sports
 Knowledge Quiz
 Q: What is the name of the 2016 studio album by the French electronic music duo Justice?
 A: Woman - Entertainment: Music
+Knowledge Quiz
+Q: Who is the protagonist in the game "The Walking Dead: Season One"?
+A: Lee Everett - Entertainment: Video Games

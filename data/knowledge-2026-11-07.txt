@@ -734,3 +734,6 @@ Plants = **இயற்கையின் சிறிய காரசாரி 
 | **Flower** | பூ | Reproduction (pollen, seeds) |
 | **Fruit** | பழம் | Seeds-ஐ பாதுகாத்து, பரவல் (dispersal) |
 | **Seed** | விதை | Next generation-ன்
+Knowledge Quiz
+Q: Laserjet and inkjet printers are both examples of what type of printer?
+A: Non-impact printer - Science: Computers

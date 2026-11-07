@@ -945,3 +945,4 @@ Vocab 1055 - Courage = Thairiyam
 Talk 1056 - Lonely pathi pesalama? Sollu!
 Recipe 1057 - Cake - Maida + Sugar + Egg + 30 min!
 Recipe 1058 - Snacks - Potato + Masala - Crispy!
+Thirukkural 1059 - Anbu - Ellam Tharum! - Thirukkural

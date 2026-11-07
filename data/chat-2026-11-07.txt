@@ -777,3 +777,4 @@ Knowledge 958 - Success - Success pathi sollu - Nalla question! Daily try pannu 
 Q 959 - Tree pathi oru story kekkura?
 Smart Q 960 - Health la eppadi jeyikkarathu?
 Game 961 - Dice - Ne Dice nu Sollu!
+Movie 962 - Leo - Vijay - Action!

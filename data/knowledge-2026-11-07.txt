@@ -496,3 +496,6 @@ A: Patrick Stump - Entertainment: Music
 Knowledge Quiz
 Q: At what temperature does temp in °C equal temp in °F?
 A: -40 - Science: Mathematics
+Knowledge Quiz
+Q: Which actress married Michael Douglas in 2000?
+A: Catherine Zeta-Jones - Celebrities

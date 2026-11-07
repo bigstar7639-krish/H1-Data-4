@@ -175,3 +175,6 @@ A: 100 - Science & Nature
 Knowledge Quiz
 Q: Which nation hosted the FIFA World Cup in 2006?
 A: Germany - Sports
+Knowledge Quiz
+Q: Who is the main antagonist of Ori and the Blind Forest?
+A: Kuro - Entertainment: Video Games

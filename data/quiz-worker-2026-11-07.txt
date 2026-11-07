@@ -79,3 +79,6 @@ A: Twice - History
 Auto Quiz - Eiffel Tower 🧠
 Q: How many bones are in the human body?
 A: 206 - Science & Nature
+Auto Quiz - Psychology 🧠
+Q: What is the alphanumeric representation of the imaginary number?
+A: i - Science: Mathematics

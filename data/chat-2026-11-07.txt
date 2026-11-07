@@ -472,3 +472,4 @@ Fact 37 - Honey - 3000 varusham kedathu!
 Coding Q 803 - Bug ah eppadi sari pannanum?
 Aira: Bug - Log paaru!
 Health 804 - Health Tip: Daily 30 min walk ponga!
+Thirukkural 805 - Anbu - Ellam Tharum! - Thirukkural

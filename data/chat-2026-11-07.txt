@@ -872,3 +872,4 @@ Vocab 1029 - Friend = Nanban
 Reading 1030 - Harry Potter!
 Story 1031
 Oru chinna tokyo la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Vocab 1032 - Friend = Nanban

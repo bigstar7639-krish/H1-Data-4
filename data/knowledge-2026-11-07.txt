@@ -334,3 +334,6 @@ A: Dan Gheesling - Entertainment: Television
 Knowledge Quiz
 Q: What did Alfred Hitchcock use as blood in the film "Psycho"? 
 A: Chocolate syrup - Entertainment: Film
+Knowledge Quiz
+Q: In what sport is a "shuttlecock" used?
+A: Badminton - Sports

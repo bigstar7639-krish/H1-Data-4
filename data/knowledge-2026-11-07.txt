@@ -493,3 +493,6 @@ A: American Gun - Celebrities
 Knowledge Quiz
 Q: Who is the singer for Fall Out Boy?
 A: Patrick Stump - Entertainment: Music
+Knowledge Quiz
+Q: At what temperature does temp in °C equal temp in °F?
+A: -40 - Science: Mathematics

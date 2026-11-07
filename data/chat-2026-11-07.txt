@@ -848,3 +848,4 @@ Emotion Q 1011 - excited?
 Aira: Excited ah! Sollu!
 Story 1012
 Oru chinna oor la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Vocab 1013 - Peace = Amaithi

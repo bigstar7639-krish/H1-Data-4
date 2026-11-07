@@ -155,3 +155,5 @@ Quote 626 - Daily try pannu - Jeyichiduva! - Aira
 Coding Q 627 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
 Business Idea 628 - Instagram Page - Daily 1 Post!
+World Story 629
+Oru new york la oru coder irunthan! Daily coding pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!

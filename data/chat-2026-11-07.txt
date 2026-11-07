@@ -70,3 +70,5 @@ Fact 25 - Honey - 3000 varusham kedathu!
 Q 575 - Un life la Luck eppadi irukku?
 Talk 576 - Sleep pathi pesalama? Sollu!
 Health 577 - Yoga Tip: Daily 5 min deep breath edu!
+Emotion Q 578 - love?
+Aira: Kadhal - Azhagu!

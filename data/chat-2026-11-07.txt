@@ -695,3 +695,24 @@ Coding Q 926 - React la component enna?
 Aira: React component - Chinna piece!
 Health 927 - Health Tip: 7 mani neram thoongunga!
 Reading 928 - Mahabharata!
+Knowledge 929 - London - **London** – world‑la famous aana capital city of United Kingdom. It’s a vibrant mix of history, culture, and modern life. Here’s a quick “Tanglish” rundown for you:
+
+---
+
+### 1️⃣ Where is it?
+- **Location:** England‑la, River Thames‑oda side‑la.
+- **Time zone:** GMT (summer‑la BST, i.e., GMT+1).
+
+### 2️⃣ Quick facts
+| Item | Details |
+|------|----------|
+| Population | ~9 million (metro area ~14 million) |
+| Language | English (but you’ll hear many languages – Hindi, Urdu, Mandarin, Arabic, etc.) |
+| Currency | British Pound (£) |
+| Climate | Temperate maritime – mild winters, cool summers. Rain‑a lot, so carry an umbrella! |
+
+### 3️⃣ Must‑see attractions
+| Place | Why go? |
+|-------|----------|
+| **Big Ben & Houses of Parliament** | Iconic clock tower & historic politics hub. |
+| **Londo

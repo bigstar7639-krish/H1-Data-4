@@ -439,3 +439,6 @@ A: Woman - Entertainment: Music
 Knowledge Quiz
 Q: Who is the protagonist in the game "The Walking Dead: Season One"?
 A: Lee Everett - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the capital of Burkina Faso?
+A: Ouagadougou - Geography

@@ -689,3 +689,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Talk 921 - Angry pathi pesalama? Sollu!
 Q 922 - Unakku Travel pathi enna theriyum?
 Business Idea 923 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
+Fact 39 - Octopus ku 3 heart!

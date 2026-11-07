@@ -16,3 +16,6 @@ A: Kashmir - Geography
 Knowledge Quiz
 Q: What is the code name of Morgana the cat in Persona 5?
 A: Mona - Entertainment: Video Games
+Knowledge Quiz
+Q: What engine did the original "Half-Life" run on?
+A: GoldSrc - Entertainment: Video Games

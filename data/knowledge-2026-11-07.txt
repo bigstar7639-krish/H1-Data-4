@@ -576,3 +576,6 @@ A: Grand Banks - Geography
 Knowledge Quiz
 Q: Who is the main protagonist in the game Life is Strange: Before The Storm?
 A: Chloe Price  - Entertainment: Video Games
+Knowledge Quiz
+Q: In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?
+A: 4 - Entertainment: Film

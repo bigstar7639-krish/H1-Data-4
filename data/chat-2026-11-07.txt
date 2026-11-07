@@ -983,3 +983,4 @@ Java is supposed to be a **safe** language – no pointer arithmetic, no memory 
 - **What it does:** It lets you do low‑level operations that the normal Java API won’t allow – allocate memory off‑heap, manipulate object fields directly, even instantiate objects **without calling a constructor**.  
 - **Why it’s a “secret”:** It’s not part of the public API, and the JDK docs even say “**Do not use**”. Yet many high‑performance libraries (Netty, Hadoop, Disr
 Quote 1085 - Daily try pannu - Jeyichiduva! - Aira
+Reading 1086 - Bharathiyar Kavithaigal!

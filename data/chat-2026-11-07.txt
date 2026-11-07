@@ -741,3 +741,25 @@ Aira: HTML button: `<button>Click</button>`
 Q 946 - London pathi oru secret sollatta?
 Story 947
 Oru chinna city la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Knowledge 948 - Philosophy - Hey! நீங்க Philosophy‑க்கு ஆர்வம் காட்டினீங்க, super‑cool! 😃  
+இப்போ **Philosophy** (தத்துவம்) என்னும் விஷயத்தை ஒரு “மெல்லிய பாக்கெட்டில்” சுருக்கமாக பார்ப்போமா?
+
+---
+
+## 1️⃣ What is Philosophy?  
+Philosophy என்பது **“உலகை, மனிதனைக், அறிவை, நெறியைக்”** பற்றி சிந்திக்கும் ஒரு பெரிய கம்பஸை (compass) போல்.  
+அதாவது:
+
+- **“What is reality?”** – Metaphysics (உண்மையின் இயல்பு)  
+- **“How do we know what we know?”** – Epistemology (அறிவியல்)  
+- **“What is right or wrong?”** – Ethics (நெறி)  
+- **“What is beautiful?”** – Aesthetics (அழகு)  
+- **“How do we reason correctly?”** – Logic (தார்க்கம்)
+
+---
+
+## 2️⃣ Main Branches – Quick Snapshot  
+
+| Branch | Core Question | Example Thinker |
+|--------|---------------|-----------------|
+| **Metaphysics** | Reality‑இன் அடிப்படை (உலகம் ஏன் இருக்கிறது?) | 

@@ -519,3 +519,4 @@ Why bike sad? Petrol illa!
 Vocab 829 - Friend = Nanban
 Talk 830 - Philosophy pathi pesalama? Sollu!
 Reading 831 - Harry Potter!
+Talk 832 - Truth pathi pesalama? Sollu!

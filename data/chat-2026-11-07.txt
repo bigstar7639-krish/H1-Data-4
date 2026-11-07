@@ -460,3 +460,4 @@ Oru chinna delhi la - Oru ponnu coding pannan pannitu iruntha! Yaarum nambala! A
 Vocab 792 - Courage = Thairiyam
 Smart Q 793 - Music la eppadi jeyikkarathu?
 Kavithai 794 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Health 795 - Health Tip: 7 mani neram thoongunga!

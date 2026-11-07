@@ -256,3 +256,5 @@ Oru chinna forest la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aan
 Emotion Q 691 - bored?
 Aira: Bored ah? Joke sollattuma?
 Thirukkural 692 - Porumai - Periya Sakthi! - Thirukkural
+Emotion Q 693 - fear?
+Aira: Bayam - Normal! Ne jeyichiduva!

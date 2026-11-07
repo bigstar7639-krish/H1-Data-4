@@ -261,3 +261,6 @@ A: San Andreas - Entertainment: Video Games
 Knowledge Quiz
 Q: What name was historically used for the Turkish city currently known as Istanbul?
 A: Constantinople - Geography
+Knowledge Quiz
+Q: Which achievement name is shared between Team Fortress 2 and Left 4 Dead 2?
+A: Rode Hard, Put Away Wet - Entertainment: Video Games

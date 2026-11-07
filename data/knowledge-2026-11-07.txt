@@ -737,3 +737,6 @@ Plants = **இயற்கையின் சிறிய காரசாரி 
 Knowledge Quiz
 Q: Laserjet and inkjet printers are both examples of what type of printer?
 A: Non-impact printer - Science: Computers
+Knowledge Quiz
+Q: What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air/fuel mixture into the engine?
+A: Camshaft - Vehicles

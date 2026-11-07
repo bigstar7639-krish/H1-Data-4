@@ -16,3 +16,4 @@ Game 837 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Game 845 - Coin Toss - Ne Toss nu Sollu!
 Game 863 - Dice - Ne Dice nu Sollu!
 Game 870 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Game 897 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!

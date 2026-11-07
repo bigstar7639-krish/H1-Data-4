@@ -388,3 +388,5 @@ Pazhamozhi 759 - Sontha Kaal la Ninnu - Jeyippa!
 Vocab 760 - Dream = Kanavu
 Coding Q 761 - AI eppadi work aaguthu?
 Aira: AI - Data paathu - Pattern!
+Coding Q 762 - App eppadi pannurathu?
+Aira: App - Idea - Design - Code!

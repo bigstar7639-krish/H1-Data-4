@@ -458,3 +458,6 @@ A: Leicester City - Sports
 Knowledge Quiz
 Q: Which of these is Daft Punk's debut single?
 A: The New Wave - Entertainment: Music
+Knowledge Quiz
+Q: Which country does Austria not border?
+A: France - Geography

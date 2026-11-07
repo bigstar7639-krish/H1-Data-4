@@ -826,3 +826,4 @@ Thirukkural 992 - Anbu - Ellam Tharum! - Thirukkural
 Kavithai 993 - Un Kural - En Isai! - Aira
 Movie 994 - Harry Potter - Magic!
 Q 995 - Excited pathi oru secret sollatta?
+Talk 996 - Kindness pathi pesalama? Sollu!

@@ -773,3 +773,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Game 955 - Coin Toss - Ne Toss nu Sollu!
 Fact 40 - Octopus ku 3 heart!
 Q 957 - Ne Dream la eppadi improve panna mudiyum?
+Knowledge 958 - Success - Success pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜

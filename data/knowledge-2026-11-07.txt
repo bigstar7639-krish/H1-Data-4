@@ -452,3 +452,6 @@ A: Global Positioning System - Science: Gadgets
 Knowledge Quiz
 Q: In what year was "Metal Gear Solid" released in North America?
 A: 1998 - Entertainment: Video Games
+Knowledge Quiz
+Q: Who won the premier league title in the 2015-2016 season following a fairy tale run?
+A: Leicester City - Sports

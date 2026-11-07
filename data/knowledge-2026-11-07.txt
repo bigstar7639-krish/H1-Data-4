@@ -475,3 +475,6 @@ A: 120 - Entertainment: Video Games
 Knowledge Quiz
 Q: What was the name of Ross' pet monkey on "Friends"?
 A: Marcel - Entertainment: Television
+Knowledge Quiz
+Q: Which of these is NOT a name of a city in the main island of PLAYERUNKNOWN'S BATTLEGROUNDS?
+A: Belushya Guba - Entertainment: Video Games

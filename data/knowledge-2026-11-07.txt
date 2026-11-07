@@ -67,3 +67,6 @@ A: The Artful Dodger - Entertainment: Books
 Knowledge Quiz
 Q: In the 2002 video game "Kingdom Hearts", how many playable worlds were there?
 A: 14 - Entertainment: Video Games
+Knowledge Quiz
+Q: In flight systems, what does the initialism "TCAS" stand for?
+A: Traffic Collision Avoidance System - General Knowledge

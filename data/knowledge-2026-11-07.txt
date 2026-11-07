@@ -484,3 +484,6 @@ A: Magnavox Odyssey - Entertainment: Video Games
 Knowledge Quiz
 Q: Where does the original Friday The 13th movie take place?
 A: Camp Crystal Lake - Entertainment: Film
+Knowledge Quiz
+Q: In the Half-Life series, Gordon Freeman's signature weapon is a:
+A: Crowbar - Entertainment: Video Games

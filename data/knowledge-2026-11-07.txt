@@ -674,3 +674,6 @@ A: 7 - Entertainment: Video Games
 Knowledge Quiz
 Q: Who played the female lead in the 1933 film "King Kong"?
 A: Fay Wray - Entertainment: Film
+Knowledge Quiz
+Q: The tuba is a part of which musical family?
+A: Brass - Entertainment: Music

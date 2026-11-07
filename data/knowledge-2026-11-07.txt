@@ -346,3 +346,6 @@ A: Highlander - Entertainment: Film
 Knowledge Quiz
 Q: What element does the Zinogre use in Monster Hunter?
 A: Thunder - Entertainment: Video Games
+Knowledge Quiz
+Q: Which character from the Mega Man series made a small cameo on Volt Catfish's introduction scene in CD versions of Mega Man X3?
+A: Auto - Entertainment: Video Games

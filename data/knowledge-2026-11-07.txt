@@ -255,3 +255,6 @@ Knowledge 703 - Quran - Quran pathi sollu - Nalla question! Daily try pannu - Je
 Knowledge Quiz
 Q: What is Canada's smallest province?
 A: Prince Edward Island - Geography
+Knowledge Quiz
+Q: Which of these is not the name of a city in the Grand Theft Auto series?
+A: San Andreas - Entertainment: Video Games

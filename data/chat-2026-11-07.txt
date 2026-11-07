@@ -428,3 +428,4 @@ Game 777 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Kavithai 778 - Un Sirippu - En Vazhkai! - Aira
 Reading 779 - Thirukkural - Valluvar!
 Talk 780 - Animals pathi pesalama? Sollu!
+Knowledge 781 - Power - Power pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜

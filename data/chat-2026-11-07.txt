@@ -592,3 +592,4 @@ Kavithai 867 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Knowledge 868 - Meditation - Meditation pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Health 869 - Health Tip: Fruits daily saapdunga!
 Game 870 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Recipe 871 - Cake - Maida + Sugar + Egg + 30 min!

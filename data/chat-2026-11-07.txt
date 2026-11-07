@@ -725,3 +725,5 @@ Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Aira AI: Un life la Time eppadi irukku? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Thirukkural 936 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Game 937 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+World Story 938
+Oru madurai la oru teacher irunthan! Daily travel pannan pannan! Oru naal hope kedaichuchu! Life maariduchu!

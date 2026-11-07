@@ -371,3 +371,6 @@ A: Utah, Colorado, Arizona, New Mexico - Geography
 Knowledge Quiz
 Q: What is the largest living species of penguin?
 A: Emperor - General Knowledge
+Knowledge Quiz
+Q: Which of these cards from "Magic: The Gathering" has a flavor text that begins with "Oi oi oi"?
+A: Uthden Troll - Entertainment: Board Games

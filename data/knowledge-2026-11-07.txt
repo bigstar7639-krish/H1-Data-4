@@ -777,3 +777,6 @@ A: Las Vegas - Entertainment: Video Games
 Knowledge Quiz
 Q: In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?
 A: Goldsboro, North Carolina - History
+Knowledge Quiz
+Q: In the game "Cave Story," what is the character Balrog's catchphrase?
+A: Huzzah! - Entertainment: Video Games

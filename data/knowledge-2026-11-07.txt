@@ -771,3 +771,6 @@ A: Sto-vo-kor - Entertainment: Television
 Knowledge Quiz
 Q: The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?
 A: 100 Megatons - History
+Knowledge Quiz
+Q: "Minecraft" was released from beta in 2011 during a convention held in which city?
+A: Las Vegas - Entertainment: Video Games

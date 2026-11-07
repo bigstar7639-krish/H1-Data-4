@@ -508,3 +508,6 @@ A: Andrew Wiles - Science: Mathematics
 Knowledge Quiz
 Q: Which movie sequel had improved box office results compared to its original film?
 A: Toy Story 2 - Entertainment: Film
+Knowledge Quiz
+Q: In the Half-Life series, Gordon Freeman's signature weapon is a:
+A: Crowbar - Entertainment: Video Games

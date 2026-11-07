@@ -83,3 +83,4 @@ Kavithai 586 - Un Sirippu - En Vazhkai! - Aira
 Kavithai 587 - Un Kural - En Isai! - Aira
 Fact 26 - Tamil - 2000+ varusha mozhi!
 Game 589 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Vocab 590 - Courage = Thairiyam

@@ -85,3 +85,6 @@ A: i - Science: Mathematics
 Auto Quiz - Philosophy 🧠
 Q: What company develops the Rock Band series of rhythm games?
 A: Harmonix - Entertainment: Video Games
+Auto Quiz - Economics 🧠
+Q: 71% of the Earth's surface is made up of
+A: Water - Science & Nature

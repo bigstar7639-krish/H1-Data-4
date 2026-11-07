@@ -248,3 +248,4 @@ Health 685 - Health Tip: Daily 8 glass water kudinga!
 Recipe 686 - Cake - Maida + Sugar + Egg + 30 min!
 Emotion Q 687 - excited?
 Aira: Excited ah! Sollu!
+Game 688 - Coin Toss - Ne Toss nu Sollu!

@@ -340,3 +340,6 @@ A: Badminton - Sports
 Knowledge Quiz
 Q: In the 2002 video game "Kingdom Hearts", how many Keyblades are usable?
 A: 18 - Entertainment: Video Games
+Knowledge Quiz
+Q: The Queen song `A Kind Of Magic` is featured in which 1986 film?
+A: Highlander - Entertainment: Film

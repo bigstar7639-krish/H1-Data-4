@@ -680,3 +680,5 @@ Oru paris la oru singer irunthan! Daily travel pannan pannan! Oru naal magic ked
 Emotion Q 915 - angry?
 Aira: Kovam ah? Deep breath edu!
 Vocab 916 - Courage = Thairiyam
+Coding Q 917 - AI eppadi work aaguthu?
+Aira: AI - Data paathu - Pattern!

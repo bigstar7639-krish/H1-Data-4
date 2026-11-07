@@ -914,3 +914,5 @@ World Story 1044
 Oru chinna delhi la - Oru ponnu help pannan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Coding Q 1045 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
+Motivation 1046
+Paravalla! Rest edu - Thirumba try pannu!

@@ -226,3 +226,7 @@ Mountain - bwb_S0-DZK-216 - Mountain Village
 Mountain - bwb_C0-CEK-107 - West Virginia A Guide to the Mountain State
 River - unitedstatescoas0000vari_w3g4 - United States Coast Pilot: Atlantic Coast: SEction A St. Croix River to Cape Cod
 River - bwb_S0-DRA-499 - alexander begg's red river journal other papers relative to the red rive resistance of 1869-1870
+Sky - bwb_S0-BXG-241 - Eagle in the Sky
+Sky - bwb_S0-BGR-072 - Get Out Of My Sky
+Star - bwb_S0-CJW-495 - Sunset and Evening Star
+Star - bwb_S0-BMA-997 - Five-Star favorites; recipes from friends of mamie and ike

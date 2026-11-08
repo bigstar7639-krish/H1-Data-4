@@ -130,3 +130,7 @@ Burger - bwb_T4-AJZ-274 - The Ham Burger Cookbook
 Burger - cbfc-ecinepramaan-100010291800006313 - BAJRA VS BURGER THEATRICAL TRAILER
 Chocolate - chocolatelegsswe0000chee - Chocolate legs : sweet mother, savage killer?
 Chocolate - chocolatewar0000robe - The chocolate war
+Fruit - bwb_T3-BSD-639 - so good with fruit
+Fruit - bwb_C0-ARO-969 - A Fruit Is Born
+Vegetable - bwb_Y0-BWA-507 - america's best vegetable recipes, 666 ways to make vegetables irresistible
+Vegetable - midwestfruitvege0000fizz_w2r2 - The Midwest fruit and vegetable book

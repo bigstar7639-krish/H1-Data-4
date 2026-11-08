@@ -220,3 +220,9 @@ Temple - peoplestemplepeo0000phil - People's Temple, People's Tomb
 Temple - papertemple0000dean - Paper Temple
 Flower - newflowerarrange0000doro - The New Flower Arrangement for Everyone
 Flower - bwb_KV-321-287 - Flower Arranging
+Sea - bwb_T5-ARI-200 - We Didnt mean to go to sea
+Sea - neptunesdomainpo0000mart - neptune's domain: a political geography of the sea
+Mountain - bwb_S0-DZK-216 - Mountain Village
+Mountain - bwb_C0-CEK-107 - West Virginia A Guide to the Mountain State
+River - unitedstatescoas0000vari_w3g4 - United States Coast Pilot: Atlantic Coast: SEction A St. Croix River to Cape Cod
+River - bwb_S0-DRA-499 - alexander begg's red river journal other papers relative to the red rive resistance of 1869-1870

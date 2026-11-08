@@ -214,3 +214,6 @@ Health - HealthFitness_201708 - Health Fitness
 Health - bwb_T4-AKE-312 - Health policy and systems development an agenda for rsearch
 Music - theyallplayedrag0000unse_a9c7 - They all Played Ragtime The True Story Of An American Music
 Music - bwb_S0-BQA-647 - A General HIstory of MUsic
+Movie - MovieBox_201505 - Movie Box
+Movie - MyMovie_20190227 - My Movie
+Temple - peoplestemplepeo0000phil - People's Temple, People's Tomb

@@ -318,3 +318,13 @@ Q+A Katha - Pizza 🧠
 Question: Where are the cars of the brand "Ferrari" manufactured?
 
 Answer: Italy - Vehicles. Itha kelvi Pizza pathi - Answer Italy. Oru kaalathula oru oor la Pizza nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Pizza oda arumaiya purinjikittan, avan Pizza pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Pizza ah purinjikittanga, antha oor ye Pizza nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Pizza ah purinjikita life ye azhagahum.
+Q+A Katha - Burger 🧠
+
+Question: In CSS, which of these values CANNOT be used with the "position" property?
+
+Answer: center - Science: Computers. Itha kelvi Burger pathi - Answer center. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Burger pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Burger la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Burger oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Chocolate 🧠
+
+Question: Red Vines is a brand of what type of candy?
+
+Answer: Licorice - General Knowledge. Itha kelvi Chocolate pathi - Answer Licorice. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Chocolate pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Chocolate la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Chocolate oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.

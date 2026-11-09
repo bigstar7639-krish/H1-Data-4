@@ -978,3 +978,7 @@ Health - bwb_KU-773-442 - The Cost of Health
 Health - pubmed-PMC3890914 - Prevalence and pattern of psychiatric morbidity and health related quality of life in patients with ischemic heart disease in a tertiary care hospital.
 Music - churchmusicinhis0000winf_z3f4 - Church Music in History and Practice
 Music - theyallplayedrag0000unse_a9c7 - They all Played Ragtime The True Story Of An American Music
+Movie - MovieBox_201505 - Movie Box
+Movie - MyMovie_20190227 - My Movie
+Temple - peoplestemplepeo0000phil - People's Temple, People's Tomb
+Temple - papertemple0000dean - Paper Temple

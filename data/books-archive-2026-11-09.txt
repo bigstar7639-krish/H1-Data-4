@@ -1060,3 +1060,5 @@ Courage - callforcourage0000loop - A call for courage
 Courage - bwb_S0-DCJ-615 - The red radge of courage
 Kindness - cometomyteaparty0000clou - Come to my tea party : kindness and friendship for young ladies
 Kindness - valueofkindnesss0000bach - The value of kindness : stories
+Truth - bwb_KU-355-863 - the truth about oscar wilde
+Truth - lifewisdomtruthh0000harr - Life Wisdom, Truth and Happiness

@@ -1038,3 +1038,5 @@ History - bwb_S0-CWF-509 - A HISTORY OF HISTORICAL WRITING
 History - bwb_KV-352-464 - a history of the english baptists
 Culture - germaninfluencei0000john_b0k5 - German influence in American education and culture
 Culture - bppr-3-1380 - Cell culture and transfection
+Festival - CdFestivalBrasilSertanejo - Cd Festival Brasil Sertanejo
+Festival - bwb_Y0-BUX-774 - By the Sea A History of the Capitola Begonia Festival

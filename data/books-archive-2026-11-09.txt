@@ -728,3 +728,5 @@ Computer - bestofcomputerfa0003jimw - The Best of the Computer Faires volume III
 Computer - prep1-t1-computer-shar7 - prep1-t1-computer-shar7
 Kavithai - kavithai-mozhi-thagarpum-amaipum - Kavithai Mozhi Thagarpum Amaipum
 Kavithai - kavithaipayitrummurai_201908 - Kavithai Payitrum Murai
+Book - truebookofmaps0000unse - the true book of maps
+Book - isbn_9780801316272 - Reading, Writing, & Learning in ESL: A Resource Book for K-12 Teachers, Second Edition

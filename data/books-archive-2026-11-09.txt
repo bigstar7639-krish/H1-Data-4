@@ -228,3 +228,7 @@ Burger - gov.uscourts.nysd.438634 - Hurley v. Tallgrass Burger Company, Inc.
 Burger - gov.uscourts.txsd.1416935 - Gonzalez v. Burger King Corporation
 Chocolate - margrethareyscur00reym_4 - Margret & H.A. Rey's Curious George goes to a chocolate factory
 Chocolate - manufactureofcho00zipp - The manufacture of chocolate and other cacao preparations
+Fruit - diseasesoffruitt0000vari - diseases of fruit trees
+Fruit - diseasesinsectsm0000gcch - Diseases Insects and Mites of Stone Fruit
+Vegetable - vegetableproduct0000john - Vegetable Production With Special References to Western Corps
+Vegetable - gov.uscourts.nyed.349334 - Lerner v. Rossman Fruit & Vegetable Dist. Inc.

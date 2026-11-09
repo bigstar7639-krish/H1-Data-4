@@ -856,3 +856,9 @@ Family - family195319600000alex - Family 1953 - 1960
 Family - bwb_P9-EBL-063 - Power ideas for a happy family
 Friendship - bwb_C0-BNV-551 - The Friendship Book of Francis Gay 1985
 Friendship - bwb_S0-BQD-714 - Arnold Bennett and H.G. Wells - A Record of Personal and a Literary Friendship
+Study - bwb_T5-AFU-612_s4z4 - Time And Motion Study- And Formulas For Wage Incentives
+Study - bwb_T3-BRL-524 - A Study of the Book of Acts
+Dream - dreamgrace0000jame - The Dream and the Grace
+Dream - dreamimaginebeyo0000rand - Dream, Imagine, Be You: A Book about Everything That Makes You Awesome
+Success - isbn_9781539536376 - Dare To Dream: Tweens' Road To Success
+Success - daretomakediffer0000andr - Dare to make a difference - success 101 for teens

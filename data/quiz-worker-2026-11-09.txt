@@ -1,13 +1,3 @@
-Q+A Katha - Vegetable 🧠
-
-Question: Which of these languages was NOT included in the 2016 song "Don't Mind" by Kent Jones?
-
-Answer: Portuguese - Entertainment: Music. Itha kelvi Vegetable pathi - Answer Portuguese. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Vegetable pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Vegetable la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Vegetable oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
-Q+A Katha - Summer 🧠
-
-Question: Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?
-
-Answer: 2005 - Science: Computers. Itha kelvi Summer pathi - Answer 2005. Summer pathi kelvi patta oru ponnu, ava daily Summer pathi yosichittu iruntha, oru naal ava oru puthu book padichu Summer oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Summer ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Summer la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
 Q+A Katha - Winter 🧠
 
 Question: Who is the main character in the video game "Just Cause 3"?
@@ -1998,3 +1988,13 @@ Q+A Katha - Sport 🧠
 Question: In Chemistry, how many isomers does Butanol (C4H9OH) have?
 
 Answer: 4 - Science & Nature. Itha kelvi Sport pathi - Answer 4. Sport pathi kelvi patta oru ponnu, ava daily Sport pathi yosichittu iruntha, oru naal ava oru puthu book padichu Sport oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Sport ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Sport la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Football 🧠
+
+Question: In the show Stranger Things, what is Eleven's favorite breakfast food?
+
+Answer: Eggo Waffles - Entertainment: Television. Itha kelvi Football pathi - Answer Eggo Waffles. Football pathi kelvi patta oru ponnu, ava daily Football pathi yosichittu iruntha, oru naal ava oru puthu book padichu Football oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Football ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Football la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Science 🧠
+
+Question: What is the romanized Arabic word for "moon"?
+
+Answer: Qamar - General Knowledge. Itha kelvi Science pathi - Answer Qamar. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Science pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Science la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Science oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.

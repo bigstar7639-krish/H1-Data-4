@@ -832,3 +832,6 @@ Cat - Cat & Mouse
 Dog - Dog Man
 Dog - Shoe Dog
 Dog - Harry the Dirty Dog
+Egypt - The Egypt game
+Egypt - Ancient Egypt (DK Eyewitness)
+Egypt - The Kybalion

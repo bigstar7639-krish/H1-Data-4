@@ -260,3 +260,7 @@ Bike - roadbikenorthgeo0000parh - Road bike north Georgia : 25 great rides in th
 Bike - fourcornersworld0000spit - Four Corners world bike ride : 4 teams of 4 cyclists riding to England from Bolivia, Hong Kong, Zimbabwe and Australia
 Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
 Car - ParisCharbonAndCar - Paris Charbon And Car
+Train - micro_IA41153636_0098 - Study To Train Remedial Elementary Students To Become More Sensitive to Context Clues.
+Train - outwestonoverlan0000rich - Out West on the Overland Train
+Flight - greatflightmptno0000unse - The Great Flight : MPT: No. 1
+Flight - bwb_Y0-AAI-128 - manual flight

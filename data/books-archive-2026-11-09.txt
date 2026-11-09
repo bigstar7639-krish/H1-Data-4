@@ -162,3 +162,5 @@ Beijing - fdbeijing19870000fodo - FD Beijing 1987
 Beijing - bwb_KU-404-589 - GALERIEURSMEILI Beijing-Lucerne 2009
 Great Wall - mengjiangnubring0000unse - Meng Jiangnü brings down the Great Wall : ten versions of a Chinese legend
 Great Wall - bwb_S0-BAR-982 - Beyond the Great Wall
+Panda - KungFuPandaBuild18_201905 - Kung Fu Panda Build 18
+Panda - gov.uscourts.flsd.348315 - Segovia v. Panda Kitchen & Bath Expo Center, Inc.

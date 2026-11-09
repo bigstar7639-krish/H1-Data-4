@@ -574,3 +574,7 @@ Law - bwb_S0-EGI-946 - AMERICAN LAW REPORTS ANNOTATED second series
 Law - adelaidelawrevie0003jrob - The adelaide law review
 Education - catholicviewpoin0000mccl_y4z5 - Catholic viewpoint on education
 Education - bwb_Y0-DII-951 - A study of modified anf basic level programs offered by the waterloo county board of education
+Happiness - isbn_9780898272130 - Finding Your Maximum Happiness
+Happiness - everythingparent0000moor - The everything parent's guide to children with special needs : a reassuring, informative guide to your child's well-being and happiness
+Smile - simplysmile0000unse - Simply a Smile
+Smile - smileorillkickyo0000goen - Smile ... or I'll kick your bed!

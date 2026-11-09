@@ -953,3 +953,8 @@ Q+A Katha - Sea 🧠
 Question: In programming, the ternary operator is mostly defined with what symbol(s)?
 
 Answer: ?: - Science: Computers. Itha kelvi Sea pathi - Answer ?:. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Sea pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Sea la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Sea oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
+Q+A Katha - Flower 🧠
+
+Question: Who painted the Mona Lisa?
+
+Answer: Leonardo da Vinci - Art. Itha kelvi Flower pathi - Answer Leonardo da Vinci. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Flower pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Flower la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Flower oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.

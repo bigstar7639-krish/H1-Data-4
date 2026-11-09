@@ -1030,3 +1030,7 @@ Game - gamefree0000thom - Game Free -
 Game - gameoftruth0000case - Game of truth
 Sport - ENGLISHQuestions_20170926 - ENGLISH Questions sport
 Sport - LGSmartSport - LG Smart Sport
+Football - FootballMatchesAvailableWithEMU14032018ByKhanSat.com - Football Matches Available With EMU 14 03 2018 By Khan Sat.com
+Football - com.davincistudio.footballfreekick - Football Free Kick
+Science - pubmed-PMC4071745 - Pattern of Medical Admissions at Enugu State University of Science and Technology Teaching Hospital: A 5 Year Review.
+Science - juniorsciencevol0000unse - JUNIOR SCIENCE - VOLUME ONE (1)

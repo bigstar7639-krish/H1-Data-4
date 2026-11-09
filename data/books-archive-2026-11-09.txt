@@ -766,3 +766,5 @@ Eiffel Tower - 106920457 - M. Santos-Dumont rounds Eiffel Tower
 Eiffel Tower - CIA-RDP96-00789R001601660001-1 - TRAINING, EIFFEL TOWER, VIEWER 79 2 NOVEMBER 87
 Psychology - isbn_070345708 - Social psychology
 Psychology - isbn_9780558105211 - Organizational & Industrial Psychology, Custom Edition
+Philosophy - worldasspectacle0000gust_s4m8_c9j9 - The World as Spectacle An Aesthetic View of Philosophy
+Philosophy - historyofphiloso0000seym_z6e0 - a history of philosophy

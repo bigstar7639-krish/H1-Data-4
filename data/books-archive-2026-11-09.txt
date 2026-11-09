@@ -224,3 +224,7 @@ Cake - WhatMakesAGoodCakeDecorator - What Makes A Good Cake Decorator
 Cake - isbn_9781323307014 - Let Them Eat Cake, Why Leaders Fail
 Pizza - isbn_9781480199033 - Day of the Living Pizza
 Pizza - bbq-chicken-pizza-in-elkins-park-pa-luigis-pizzarama-ii - BBQ Chicken Pizza In Elkins Park, PA Luigi's Pizzarama II
+Burger - gov.uscourts.nysd.438634 - Hurley v. Tallgrass Burger Company, Inc.
+Burger - gov.uscourts.txsd.1416935 - Gonzalez v. Burger King Corporation
+Chocolate - margrethareyscur00reym_4 - Margret & H.A. Rey's Curious George goes to a chocolate factory
+Chocolate - manufactureofcho00zipp - The manufacture of chocolate and other cacao preparations

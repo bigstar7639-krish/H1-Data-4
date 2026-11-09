@@ -232,3 +232,7 @@ Fruit - diseasesoffruitt0000vari - diseases of fruit trees
 Fruit - diseasesinsectsm0000gcch - Diseases Insects and Mites of Stone Fruit
 Vegetable - vegetableproduct0000john - Vegetable Production With Special References to Western Corps
 Vegetable - gov.uscourts.nyed.349334 - Lerner v. Rossman Fruit & Vegetable Dist. Inc.
+Summer - bwb_S0-BOD-626 - The Summer of Katya
+Summer - bwb_KV-620-365 - Summer Storm
+Winter - bwb_S0-CDC-623_1 - A Winter in the West.
+Winter - unset0000unse_l8w6 - Journal of the Russian Numismatic Society: No. 41, Winter 1990-91

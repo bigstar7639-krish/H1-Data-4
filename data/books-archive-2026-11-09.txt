@@ -394,3 +394,7 @@ Moon - isbn_9781424109401 - Watercolour Essences of Moon
 Moon - bwb_Y0-DSM-911 - The Teahouse of the August Moon
 Sun - sun0000etie - The Sun
 Sun - bwb_S0-EMN-921 - Season in the sun
+Bird - tianshengwocaiev0000wuyi - Tian sheng wo cai = Every bird has its own sky
+Bird - tbya_tibetan-calendar-2017-fire-bird-year-tibetan-english-buddhism-kangra-2017-p - Tibetan Calendar 2017 Fire Bird Year Tibetan English Buddhism Kangra 2017 Palpung Sherabling Monastic Seat
+Animal - bwb_Y0-DRW-648 - The Animal Stroy Book
+Animal - bwb_W9-CFY-464 - Animal Behavior

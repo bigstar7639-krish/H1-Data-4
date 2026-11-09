@@ -258,3 +258,5 @@ Horse - bwb_Y0-BYL-514 - The Manual of Horsemanship of the British Horse Society
 Horse - horsewalksintoba0000gros_e3j3 - A horse walks into a bar
 Bike - roadbikenorthgeo0000parh - Road bike north Georgia : 25 great rides in the mountains and valleys of North Georgia
 Bike - fourcornersworld0000spit - Four Corners world bike ride : 4 teams of 4 cyclists riding to England from Bolivia, Hong Kong, Zimbabwe and Australia
+Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
+Car - ParisCharbonAndCar - Paris Charbon And Car

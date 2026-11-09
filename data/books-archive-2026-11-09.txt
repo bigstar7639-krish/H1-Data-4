@@ -28,3 +28,5 @@ Cake - WhatMakesAGoodCakeDecorator - What Makes A Good Cake Decorator
 Cake - isbn_9781323307014 - Let Them Eat Cake, Why Leaders Fail
 Pizza - bbq-chicken-pizza-in-elkins-park-pa-luigis-pizzarama-ii - BBQ Chicken Pizza In Elkins Park, PA Luigi's Pizzarama II
 Pizza - gov.uscourts.nysd.590542 - Pizza On 23rd Corp v. Liberty Mutual Insurance Company
+Burger - dlibra.bibliotekaelblaska.pl.79.2950709 - Montag, den 15. d. Mts., Nachmittags 4 Uhr im großen Saale der Bürger-Ressource: Vortrag - Our Digital Library
+Burger - jstor-1103598 - In the Circuit Court of Prince Edward County, Virginia. State Female Normal School v. Mary E. Burger and Others

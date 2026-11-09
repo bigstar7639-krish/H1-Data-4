@@ -718,3 +718,7 @@ Bike - bwb_S0-BCA-106 - Hit the Bike Trail
 Bike - cbfc-ecinepramaan-100010292400003826 - IKEA NLP BIKE BLR
 Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Application_Bulletin
 Car - incrediblecarstu0000omot - Incredible car stunts
+Train - bwb_T4-APT-839 - How to raise and train a lhasa apso
+Train - TrainShow2006 - DRP Train Parade 2006
+Flight - bwb_C0-AQJ-013 - flight maneuvers complete programmed course
+Flight - bwb_W9-BGH-193 - Training to fly military flight training 1907-1945

@@ -70,3 +70,7 @@ Flight - bwb_W9-CZI-694 - The Adventure of Flight
 Flight - flightofthunderb0000sirb - The Flight of Thunderbolts
 Phone - SCForIPhoneX - SC ++ For I Phone X
 Phone - the-ai-receptionist-architecture-blueprint - The AI Receptionist Blueprint: Call Routing, Prompts & Autonomous Phone Booking
+Computer - computersecurity0000ctdi - Computer and Security
+Computer - conversationscom0000beth - Conversations: Computer Mediated Dialogue, Multilogue, And Learning
+Book - catalogofdolls180000unse - A Catalog of Dolls 1877-1961: Reference Book for Dealers and Collectors
+Book - bwb_Y0-DRW-648 - The Animal Stroy Book

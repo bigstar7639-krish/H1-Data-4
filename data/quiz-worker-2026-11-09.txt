@@ -1013,3 +1013,13 @@ Q+A Katha - Student 🧠
 Question: Which SQL keyword is used to fetch data from a database?
 
 Answer: SELECT - Science: Computers. Itha kelvi Student pathi - Answer SELECT. Oru kaalathula oru oor la Student nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Student oda arumaiya purinjikittan, avan Student pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Student ah purinjikittanga, antha oor ye Student nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Student ah purinjikita life ye azhagahum.
+Q+A Katha - Business 🧠
+
+Question: In Game of Thrones, what is Littlefinger's real name?
+
+Answer: Petyr Baelish - Entertainment: Television. Itha kelvi Business pathi - Answer Petyr Baelish. Oru kaalathula oru oor la Business nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Business oda arumaiya purinjikittan, avan Business pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Business ah purinjikittanga, antha oor ye Business nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Business ah purinjikita life ye azhagahum.
+Q+A Katha - Money 🧠
+
+Question: In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?
+
+Answer: Sarpadia - Entertainment: Books. Itha kelvi Money pathi - Answer Sarpadia. Oru kaalathula oru oor la Money nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Money oda arumaiya purinjikittan, avan Money pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Money ah purinjikittanga, antha oor ye Money nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Money ah purinjikita life ye azhagahum.

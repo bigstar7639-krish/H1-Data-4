@@ -206,3 +206,7 @@ Beach - SunnyBeachVox - Sunny Beach Vox
 Beach - utahbeachtocherb0000unse - UTAH BEACH TO CHERBOURG 6 - 7 JUNE 1944
 Forest - tropicalforestec0000kapo - Tropical Forest Ecology and Mangement in the Asia-Pacific Region: Proceedings of Regional Workshop Help at Lae, Papua New Guinea (20 June- 1 July, 1988)
 Forest - bwb_C0-AQJ-625 - The enchanted forest
+Desert - principalregular0000nsch - principal regularities of the desert locust plagues and swarm migrations
+Desert - voiceofdesert00krut - The voice of the desert, a naturalist's interpretation
+Snow - the-straightest-track-through-the-snow-sermon-by-rev.-arthur-f.-fruhling - The Straightest Track Through the Snow, Sermon by Rev. Arthur F. Fruhling
+Snow - angelsinsnow0000dere - Angels in the Snow

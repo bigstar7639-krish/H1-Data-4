@@ -422,3 +422,7 @@ Beauty - Beauty1980PrmSundar - Beauty 1980
 Beauty - TTB_DOAD_MP3_256 - Thorn The Beauty - Diary Of A Depressian MP3 256 Kbps
 Fashion - developmentalpla0000beth - a developmental plan for the fashion merchandising curriculum
 Fashion - itisfashion00cose - It is the fashion
+Game - game_launcher - game_launcher
+Game - Game17XXXLite_20170515 - Game 17 XXX Lite
+Sport - laculturedusport0000sorb - La culture du sport au Québec
+Sport - succeedinsport0000jack - Succeed In Sport

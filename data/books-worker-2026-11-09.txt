@@ -1073,3 +1073,11 @@ Horse - The Horse and His Boy
 Horse - War Horse
 Horse - On a pale horse
 Bike - Franklin Rides a Bike (Franklin)
+Bike - Duck on a Bike
+Bike - The bike ride
+Car - The Boxcar Children
+Car - How cars work
+Car - The Car
+Train - The Mystery of the Blue Train
+Train - The Girl on the Train
+Train - Train to Pakistan

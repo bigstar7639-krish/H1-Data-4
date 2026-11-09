@@ -520,3 +520,7 @@ Train - bwb_T5-AFC-561 - The Train Passes Through It
 Train - bwb_Y0-AGE-368 - Glimmer Train
 Flight - windsofimaginati0000robe - Winds of Imagination: Morrell Family Attraction's Flight of Fancy
 Flight - firstflightthoug0000unse - First flight : Thoughts for fledgling missionaries who...: brief meditations delivered to students enrolled in The Spanish Language Institute, San JoseÌ, Costa Rica
+Phone - SCForIPhoneX - SC ++ For I Phone X
+Phone - 9.3.2ALLIPhone - 9.3.2 ALL I Phone مدونة يمن فوني
+Computer - computersecurity0000ctdi - Computer and Security
+Computer - afipsreferencete0000raym - An AFIPS Reference Text Computer Programmer Job Analysis

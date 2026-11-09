@@ -66,3 +66,7 @@ Car - Rchester_Carbureter_Car_Application_Bulletin - Rochester_Carbureter_Car_Ap
 Car - ParisCharbonAndCar - Paris Charbon And Car
 Train - trainwithouttrac0000will - Train Without Tracks. Secrets of the Underground Railraod
 Train - bwb_W9-CSV-678 - Daphnids on a train, development and application of a new numerical method for physiologically population models
+Flight - bwb_W9-CZI-694 - The Adventure of Flight
+Flight - flightofthunderb0000sirb - The Flight of Thunderbolts
+Phone - SCForIPhoneX - SC ++ For I Phone X
+Phone - the-ai-receptionist-architecture-blueprint - The AI Receptionist Blueprint: Call Routing, Prompts & Autonomous Phone Booking

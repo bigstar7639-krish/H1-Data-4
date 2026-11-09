@@ -1048,3 +1048,7 @@ Friendship - fromfriendshipto0000roya - From friendship to marriage
 Friendship - bwb_C0-BNV-551 - The Friendship Book of Francis Gay 1985
 Study - bppr-3-1129 - Study design
 Study - thirtyeighthyear0000guym_m4v0 - The Thirty-Eighth Yearbook of the National Society for the Study of Education
+Dream - bwb_S0-DNJ-631 - Never dies the dream
+Dream - bwb_S0-ASP-932 - The Coming League and the Roman Dream
+Success - lifeskillssucces0000cowa - Life Skills and Success Tips, a Teen Handbook
+Success - goallinforclncsu0000unse - go all in for clnc success

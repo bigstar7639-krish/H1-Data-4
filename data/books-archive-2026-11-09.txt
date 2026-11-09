@@ -484,3 +484,7 @@ Burger - dlibra.bibliotekaelblaska.pl.79.2950709 - Montag, den 15. d. Mts., Nach
 Burger - jstor-1103598 - In the Circuit Court of Prince Edward County, Virginia. State Female Normal School v. Mary E. Burger and Others
 Chocolate - discoveryofchoco0000runc - The discovery of chocolate
 Chocolate - whenwillbroccoli0000bodi - When Will Broccoli Taste Like Chocolate?: Your Questions on Genetic Traits Answered by Stanford University Scientists
+Fruit - diseasesoffruitt0000vari - diseases of fruit trees
+Fruit - diseasesinsectsm0000gcch - Diseases Insects and Mites of Stone Fruit
+Vegetable - vegetableproduct0000john - Vegetable Production With Special References to Western Corps
+Vegetable - bostonfreshfruit1978fede - Boston, fresh fruit and vegetable wholesale market prices

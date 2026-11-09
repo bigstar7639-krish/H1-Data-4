@@ -1034,3 +1034,7 @@ Football - FootballMatchesAvailableWithEMU14032018ByKhanSat.com - Football Match
 Football - com.davincistudio.footballfreekick - Football Free Kick
 Science - pubmed-PMC4071745 - Pattern of Medical Admissions at Enugu State University of Science and Technology Teaching Hospital: A 5 Year Review.
 Science - juniorsciencevol0000unse - JUNIOR SCIENCE - VOLUME ONE (1)
+History - bwb_S0-CWF-509 - A HISTORY OF HISTORICAL WRITING
+History - bwb_KV-352-464 - a history of the english baptists
+Culture - germaninfluencei0000john_b0k5 - German influence in American education and culture
+Culture - bppr-3-1380 - Cell culture and transfection

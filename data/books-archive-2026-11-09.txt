@@ -666,3 +666,7 @@ Forest - globalforestsect0000hans - Global Forest Sector: Changes, Practices, an
 Forest - forestcavalier0000unse - the forest cavalier
 Desert - bwb_S0-BBE-925 - Captives of the Desert
 Desert - bwb_KU-559-291 - The Gobi Desert
+Snow - bwb_W9-CRW-103 - On snow and rock
+Snow - twitch-chat-498145510 - Twitch chat logs from Snow_lul
+Fire - computerbasedtra0000hila - Computer-based Training of Cannon Fire Direction Specialists
+Fire - bwb_S0-BBA-752 - FIre Ecology of Forests and Woodlands in Utah

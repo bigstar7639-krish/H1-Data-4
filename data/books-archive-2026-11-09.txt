@@ -800,3 +800,7 @@ Mountain - bwb_S0-DZK-216 - Mountain Village
 Mountain - bwb_C0-CEK-107 - West Virginia A Guide to the Mountain State
 River - bwb_S0-DRA-499 - alexander begg's red river journal other papers relative to the red rive resistance of 1869-1870
 River - bwb_Y0-AER-901 - Peace River Country
+Sky - SkyCity_201702 - Sky City
+Sky - SkyHD2 - Sky HD 2
+Star - bwb_S0-CJW-495 - Sunset and Evening Star
+Star - bwb_S0-BMA-997 - Five-Star favorites; recipes from friends of mamie and ike

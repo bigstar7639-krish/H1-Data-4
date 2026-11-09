@@ -1,13 +1,3 @@
-Q+A Katha - Chocolate 🧠
-
-Question: Which game won the "Games for Impact" award in The Game Awards 2015?
-
-Answer: Life is Strange - Entertainment: Video Games. Itha kelvi Chocolate pathi - Answer Life is Strange. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Chocolate pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Chocolate la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Chocolate oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
-Q+A Katha - Fruit 🧠
-
-Question: Which TV chef wrote an autobiography titled "Humble Pie"?
-
-Answer: Gordon Ramsay - Celebrities. Itha kelvi Fruit pathi - Answer Gordon Ramsay. Oru naal oru chinna oor la oru paiyan irunthan, avan manasula Fruit pathi neraya yosichittu irunthan, yaar kitta sollurathu nu theriyama thaniya irunthan, appo avanukku oru nalla friend kedaichan, antha friend avan kooda pesi avan manasa purinjikittan, kadasiya avan Fruit la irunthu nalla purithaloda sirichuttu veetuku ponan, ithu thaan Fruit oda azhagu, kashtam vanthalum nambikkaiya iruntha ellam sari aayidum nu avan purinjikittan.
 Q+A Katha - Vegetable 🧠
 
 Question: Which of the following tabletop games is the oldest?
@@ -1998,3 +1988,13 @@ Q+A Katha - Fitness 🧠
 Question: Which of the following Autobot names in Michael Bay's movies was NOT a name for a Transformer in the original 1980's cartoon?
 
 Answer: Mudflap - Entertainment: Television. Itha kelvi Fitness pathi - Answer Mudflap. Fitness pathi kelvi patta oru ponnu, ava daily Fitness pathi yosichittu iruntha, oru naal ava oru puthu book padichu Fitness oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Fitness ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Fitness la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Diet 🧠
+
+Question: What is the maximum value of a 32-bit signed binary integer?
+
+Answer: 2,147,483,647 - Science: Computers. Itha kelvi Diet pathi - Answer 2,147,483,647. Diet pathi kelvi patta oru ponnu, ava daily Diet pathi yosichittu iruntha, oru naal ava oru puthu book padichu Diet oda unmaiya purinjikita, athula irunthu ava life maariduchu, ava bayapadama Diet ah face panna aarambicha, ava friends ellam ava maariya paathu aachariyapattanga, kadasiya ava Diet la jeyichu santhosham ah iruntha, ithu thaan namakku kathai sollura paadam.
+Q+A Katha - Sleep 🧠
+
+Question: What book series published by Jim Butcher follows a wizard in modern day Chicago?
+
+Answer: The Dresden Files - Entertainment: Books. Itha kelvi Sleep pathi - Answer The Dresden Files. Oru kaalathula oru oor la Sleep nu oru periya vishayam irunthuchu, yaarum atha purinjikama irunthanga, oru chinna paiyan thaan Sleep oda arumaiya purinjikittan, avan Sleep pathi ellaar kitta yum pesi puriya vachan, mella mella oor makkal ellam Sleep ah purinjikittanga, antha oor ye Sleep nala azhaga maariduchu, ithula irunthu namakku theriyura vishayam enna na, Sleep ah purinjikita life ye azhagahum.

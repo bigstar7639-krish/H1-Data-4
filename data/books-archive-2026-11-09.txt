@@ -476,3 +476,7 @@ Coffee - bwb_KU-577-151 - pets of coffee
 Coffee - gov.uscourts.nyed.348607 - Duran v. Bridge Coffee Shop Inc.
 Tea - bwb_T4-AKD-432 - tea technology
 Tea - possibilidades-terapeuticas-para-o-tea - Possibilidades terapêuticas para o TEA
+Cake - pamellaasquithsu0000asqu - Pamella Asquith's Ultimate chocolate cake book
+Cake - WhatMakesAGoodCakeDecorator - What Makes A Good Cake Decorator
+Pizza - gov.uscourts.nysd.590542 - Pizza On 23rd Corp v. Liberty Mutual Insurance Company
+Pizza - gov.uscourts.nysd.553257 - Ramirez v. 1701 Pizza Ltd.
